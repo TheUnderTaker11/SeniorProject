@@ -8,6 +8,7 @@ for line in Lines:
     if(count == 0):
         print("Starting conversion")
         print("This is going to take awhile (10+ minutes), so don't be suprised if it seems like nothing is happening.")
+        writeLines.append(line)
     else:
         if (count == 6955):
             print("25% done")

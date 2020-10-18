@@ -17,8 +17,6 @@ def getplace(lat, lon):
     country = standard_names
     return country
 
-some_names = ['us']
-test = country_converter.convert(names=some_names, to='name_short')
 
 earthquakefile = open("EarthquakeData.csv",'r')
 Lines = earthquakefile.readlines()
@@ -44,6 +42,7 @@ for line in Lines:
         lat = lineArray[2]
         lon = lineArray[3]
         country = getplace(lat, lon)
+        country = str(country).replace(",","")
         toWriteLine = country + "," + line
         writeLines.append(toWriteLine)
         count += 1

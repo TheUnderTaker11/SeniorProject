@@ -127,7 +127,7 @@ United States,04/18/1965,06:33:58,41.46,-127.416,Earthquake,10,,,5.9,MW,,,,,,,IS
 South Georgia and South Sandwich Is.,04/18/1965,09:39:19,-59.687,-26.454,Earthquake,25,,,6.1,MW,,,,,,,ISCGEM857835,ISCGEM,ISCGEM,ISCGEM,Automatic
 South Georgia and South Sandwich Is.,04/18/1965,12:41:56,-59.586,-26.372,Earthquake,25,,,6.1,MW,,,,,,,ISCGEM857837,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,04/19/1965,23:42:00,34.848,138.332,Earthquake,35,,,6,MW,,,,,,,ISCGEM857881,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,04/24/1965,21:55:29,11.451,140.231,Earthquake,70,,,5.8,MW,,,,,,,ISCGEM857999,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,04/24/1965,21:55:29,11.451,140.231,Earthquake,70,,,5.8,MW,,,,,,,ISCGEM857999,ISCGEM,ISCGEM,ISCGEM,Automatic
 Northern Mariana Islands,04/25/1965,01:00:15,24.409,142.776,Earthquake,30,,,6,MW,,,,,,,ISCGEM858003,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,04/26/1965,09:47:29,-1.733,126.568,Earthquake,25,,,5.7,MW,,,,,,,ISCGEM858039,ISCGEM,ISCGEM,ISCGEM,Automatic
 United States,04/26/1965,20:29:07,54.157,-162.59,Earthquake,36.8,,,5.6,MW,,,,,,,ISCGEM858049,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -452,7 +452,7 @@ Afghanistan,06/06/1966,07:46:17,36.421,71.224,Earthquake,215.6,,,6.6,MW,,,,,,,IS
 Philippines,06/06/1966,20:47:10,9.528,126.505,Earthquake,25,,,6,MW,,,,,,,ISCGEM846202,ISCGEM,ISCGEM,ISCGEM,Automatic
 Peru,06/07/1966,00:59:46,-14.828,-75.835,Earthquake,20,,,6.2,MW,,,,,,,ISCGEM846209,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,06/07/1966,11:44:52,24.328,122.66,Earthquake,35,,,5.6,MW,,,,,,,ISCGEM846229,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,06/07/1966,13:59:36,11.323,139.593,Earthquake,35,,,6.8,MW,,,,,,,ISCGEM846232,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,06/07/1966,13:59:36,11.323,139.593,Earthquake,35,,,6.8,MW,,,,,,,ISCGEM846232,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,06/09/1966,15:39:27,44.238,147.766,Earthquake,93.2,,,5.7,MW,,,,,,,ISCGEM846291,ISCGEM,ISCGEM,ISCGEM,Automatic
 United States,06/11/1966,18:13:38,51.399,-178.35,Earthquake,35,,,5.6,MW,,,,,,,ISCGEM846361,ISCGEM,ISCGEM,ISCGEM,Automatic
 Fiji,06/13/1966,07:33:13,-21.242,174.342,Earthquake,25,,,6.1,MW,,,,,,,ISCGEM846407,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -697,8 +697,8 @@ United States,06/21/1967,18:13:04,64.65,-147.798,Earthquake,10,,,5.7,MW,,,,,,,IS
 Chile,06/21/1967,20:09:32,-25.076,-70.394,Earthquake,35,,,6.2,MW,,,,,,,ISCGEM834748,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,06/23/1967,05:05:06,-5.859,130.325,Earthquake,90,,,5.8,MW,,,,,,,ISCGEM834808,ISCGEM,ISCGEM,ISCGEM,Automatic
 Vanuatu,06/23/1967,21:30:12,-19.142,167.74,Earthquake,16.4,,,5.6,MW,,,,,,,ISCGEM834840,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,06/24/1967,21:00:26,12.531,141.665,Earthquake,20,,,5.7,MW,,,,,,,ISCGEM834876,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,06/25/1967,23:18:04,12.488,141.655,Earthquake,20,,,5.8,MW,,,,,,,ISCGEM834918,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,06/24/1967,21:00:26,12.531,141.665,Earthquake,20,,,5.7,MW,,,,,,,ISCGEM834876,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,06/25/1967,23:18:04,12.488,141.655,Earthquake,20,,,5.8,MW,,,,,,,ISCGEM834918,ISCGEM,ISCGEM,ISCGEM,Automatic
 Solomon Islands,06/28/1967,00:14:37,-9.543,157.752,Earthquake,25,,,5.6,MW,,,,,,,ISCGEM834989,ISCGEM,ISCGEM,ISCGEM,Automatic
 New Zealand,06/28/1967,14:34:06,-47.085,165.844,Earthquake,30,,,5.7,MW,,,,,,,ISCGEM835008,ISCGEM,ISCGEM,ISCGEM,Automatic
 Timor-Leste,06/29/1967,16:36:20,-7.249,128.596,Earthquake,150,,,5.5,MW,,,,,,,ISCGEM835041,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -736,8 +736,8 @@ South Georgia and South Sandwich Is.,08/22/1967,13:02:05,-60.761,-24.301,Earthqu
 South Georgia and South Sandwich Is.,08/22/1967,13:17:02,-60.898,-23.378,Earthquake,10,,,5.7,MW,,,,,,,ISCGEM832490,ISCGEM,ISCGEM,ISCGEM,Automatic
 Russia,08/24/1967,03:21:19,43.565,147.578,Earthquake,65.9,,,5.6,MW,,,,,,,ISCGEM832538,ISCGEM,ISCGEM,ISCGEM,Automatic
 Vanuatu,08/24/1967,10:32:55,-14.94,166.902,Earthquake,25,,,5.8,MW,,,,,,,ISCGEM832545,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,08/26/1967,00:36:42,12.173,140.765,Earthquake,20,,,6.2,MW,,,,,,,ISCGEM832603,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,08/26/1967,02:07:10,12.273,140.896,Earthquake,20,,,5.6,MW,,,,,,,ISCGEM832608,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,08/26/1967,00:36:42,12.173,140.765,Earthquake,20,,,6.2,MW,,,,,,,ISCGEM832603,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,08/26/1967,02:07:10,12.273,140.896,Earthquake,20,,,5.6,MW,,,,,,,ISCGEM832608,ISCGEM,ISCGEM,ISCGEM,Automatic
 China,08/30/1967,04:22:04,31.633,100.262,Earthquake,10,,,6.4,MW,,,,,,,ISCGEM832754,ISCGEM,ISCGEM,ISCGEM,Automatic
 China,08/30/1967,11:08:49,31.587,100.255,Earthquake,10,,,5.8,MW,,,,,,,ISCGEM832769,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,08/30/1967,13:33:28,45.444,151.353,Earthquake,35,,,6,MW,,,,,,,ISCGEM832778,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -746,7 +746,7 @@ Peru,09/03/1967,21:07:29,-10.656,-79.674,Earthquake,15,,,7,MW,,,,,,,ISCGEM830900
 Tonga,09/04/1967,03:52:00,-31.278,-179.422,Earthquake,236.1,,,6.5,MW,,,,,,,ISCGEM830914,ISCGEM,ISCGEM,ISCGEM,Automatic
 Myanmar,09/06/1967,07:30:12,14.596,93.48,Earthquake,32.9,,,5.7,MW,,,,,,,ISCGEM830967,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,09/07/1967,07:12:37,2.626,124.226,Earthquake,275,,,5.9,MW,,,,,,,ISCGEM830991,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,09/08/1967,22:37:39,12.27,140.953,Earthquake,15,,,6.1,MW,,,,,,,ISCGEM831054,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,09/08/1967,22:37:39,12.27,140.953,Earthquake,15,,,6.1,MW,,,,,,,ISCGEM831054,ISCGEM,ISCGEM,ISCGEM,Automatic
 Argentina,09/09/1967,10:06:45,-27.623,-63.23,Earthquake,580.4,,,6.7,MW,,,,,,,ISCGEM831067,ISCGEM,ISCGEM,ISCGEM,Automatic
 Pitcairn,09/09/1967,16:52:02,-54.55,-136.196,Earthquake,10,,,6.3,MW,,,,,,,ISCGEM831078,ISCGEM,ISCGEM,ISCGEM,Automatic
 Russia,09/13/1967,18:41:16,52.741,172.489,Earthquake,25,,,5.6,MW,,,,,,,ISCGEM831220,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -867,8 +867,8 @@ Indonesia,02/21/1968,08:57:53,-4.04,128.531,Earthquake,35,,,5.6,MW,,,,,,,ISCGEM8
 New Zealand,02/24/1968,01:11:12,-32.637,-177.479,Earthquake,20,,,5.7,MW,,,,,,,ISCGEM826634,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,02/25/1968,20:00:32,37.586,141.65,Earthquake,65.5,,,5.6,MW,,,,,,,ISCGEM826722,ISCGEM,ISCGEM,ISCGEM,Automatic
 Taiwan,02/26/1968,10:50:19,22.733,121.368,Earthquake,25,,,7.1,MW,,,,,,,ISCGEM826743,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,02/27/1968,05:19:04,12.194,140.638,Earthquake,26.3,,,5.8,MW,,,,,,,ISCGEM826771,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,02/27/1968,10:54:39,12.117,140.757,Earthquake,25,,,5.9,MW,,,,,,,ISCGEM826780,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,02/27/1968,05:19:04,12.194,140.638,Earthquake,26.3,,,5.8,MW,,,,,,,ISCGEM826771,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,02/27/1968,10:54:39,12.117,140.757,Earthquake,25,,,5.9,MW,,,,,,,ISCGEM826780,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,02/28/1968,12:08:02,32.928,137.82,Earthquake,344.1,,,6.3,MW,,,,,,,ISCGEM826814,ISCGEM,ISCGEM,ISCGEM,Automatic
 Maldives,03/02/1968,22:02:24,-6.164,71.374,Earthquake,15,,,5.9,MW,,,,,,,ISCGEM824551,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,03/03/1968,22:55:36,1.584,122.452,Earthquake,422.7,,,5.7,MW,,,,,,,ISCGEMSUP824599,ISCGEMSUP,ISCGEM,ISCGEM,Automatic
@@ -918,7 +918,7 @@ Japan,05/16/1968,10:39:02,41.43,142.864,Earthquake,25,,,7.9,MW,,,,,,,ISCGEM82208
 Japan,05/16/1968,16:13:46,39.856,143.745,Earthquake,25,,,6.5,MW,,,,,,,ISCGEM822151,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,05/16/1968,18:43:22,40.82,142.198,Earthquake,59.3,,,5.7,MW,,,,,,,ISCGEM822165,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,05/16/1968,19:16:48,41.35,142.614,Earthquake,43.3,,,6.1,MW,,,,,,,ISCGEM822166,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,05/16/1968,19:45:07,12.678,141.471,Earthquake,20,,,5.7,MW,,,,,,,ISCGEM822171,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,05/16/1968,19:45:07,12.678,141.471,Earthquake,20,,,5.7,MW,,,,,,,ISCGEM822171,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,05/16/1968,20:22:16,41.506,142.717,Earthquake,37.1,,,6.1,MW,,,,,,,ISCGEM822175,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,05/16/1968,23:04:58,39.808,143.233,Earthquake,43,,,6.5,MW,,,,,,,ISCGEM822187,ISCGEM,ISCGEM,ISCGEM,Automatic
 Japan,05/17/1968,10:42:47,39.698,143.516,Earthquake,27.8,,,6.1,MW,,,,,,,ISCGEM822237,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -1030,7 +1030,7 @@ Mexico,08/16/1968,18:25:54,16.557,-98.03,Earthquake,30,,,5.6,MW,,,,,,,ISCGEM8180
 Indonesia,08/17/1968,04:00:38,1.364,126.268,Earthquake,35,,,6,MW,,,,,,,ISCGEM818083,ISCGEM,ISCGEM,ISCGEM,Automatic
 Solomon Islands,08/18/1968,18:38:32,-10.188,159.914,Earthquake,543.1,,,7.3,MW,,,,,,,ISCGEM818136,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,08/18/1968,18:56:50,1.159,126.1,Earthquake,35,,,5.8,MW,,,,,,,ISCGEM818137,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,08/20/1968,11:16:57,5.485,147.082,Earthquake,10,,,5.8,MW,,,,,,,ISCGEM818179,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,08/20/1968,11:16:57,5.485,147.082,Earthquake,10,,,5.8,MW,,,,,,,ISCGEM818179,ISCGEM,ISCGEM,ISCGEM,Automatic
 Tonga,08/21/1968,17:56:48,-30.775,-178.766,Earthquake,15,,,6.5,MW,,,,,,,ISCGEM818206,ISCGEM,ISCGEM,ISCGEM,Automatic
 Russia,08/22/1968,14:00:08,52.96,171.15,Earthquake,25.6,,,6.2,MW,,,,,,,ISCGEM818229,ISCGEM,ISCGEM,ISCGEM,Automatic
 Bolivia,08/23/1968,22:36:52,-21.989,-63.554,Earthquake,533.6,,,6.3,MW,,,,,,,ISCGEM818277,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -1152,7 +1152,7 @@ Russia,01/22/1969,00:42:31,55.901,162.962,Earthquake,30.1,,,5.6,MW,,,,,,,ISCGEM8
 Tonga,01/24/1969,02:33:04,-21.882,-179.498,Earthquake,593.5,,,6.7,MW,,,,,,,ISCGEM813480,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/25/1969,05:19:20,0.836,126.005,Earthquake,35,,,6,MW,,,,,,,ISCGEM813514,ISCGEM,ISCGEM,ISCGEM,Automatic
 Russia,01/26/1969,15:05:37,55.84,162.688,Earthquake,31.3,,,6.1,MW,,,,,,,ISCGEM813567,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,01/27/1969,13:15:28,8.654,137.854,Earthquake,15,,,6.2,MW,,,,,,,ISCGEM813602,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,01/27/1969,13:15:28,8.654,137.854,Earthquake,15,,,6.2,MW,,,,,,,ISCGEM813602,ISCGEM,ISCGEM,ISCGEM,Automatic
 Tonga,01/29/1969,17:44:30,-17.048,-171.604,Earthquake,15,,,6,MW,,,,,,,ISCGEM813674,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/30/1969,10:29:41,4.569,127.306,Earthquake,60,,,7.6,MW,,,,,,,ISCGEM813688,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/31/1969,00:44:16,4.192,128.186,Earthquake,43.3,,,6.4,MW,,,,,,,ISCGEM813710,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -1816,7 +1816,7 @@ Indonesia,01/10/1971,19:13:38,-3.281,139.89,Earthquake,30,,,5.8,MW,,,,,,,ISCGEM7
 Indonesia,01/10/1971,19:34:22,-3.106,139.594,Earthquake,30,,,5.9,MW,,,,,,,ISCGEM788088,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/10/1971,22:14:39,-3.261,139.993,Earthquake,30,,,6,MW,,,,,,,ISCGEM788103,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/10/1971,23:24:48,-3.298,139.834,Earthquake,30,,,5.7,MW,,,,,,,ISCGEM788105,ISCGEM,ISCGEM,ISCGEM,Automatic
-Micronesia, Fed. Sts.,01/12/1971,14:42:13,9.829,138.284,Earthquake,10,,,5.8,MW,,,,,,,ISCGEM788179,ISCGEM,ISCGEM,ISCGEM,Automatic
+Micronesia Fed. Sts.,01/12/1971,14:42:13,9.829,138.284,Earthquake,10,,,5.8,MW,,,,,,,ISCGEM788179,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/12/1971,14:57:12,-3.39,139.993,Earthquake,30,,,5.9,MW,,,,,,,ISCGEM788180,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/13/1971,10:22:48,-3.092,139.575,Earthquake,30,,,5.9,MW,,,,,,,ISCGEM788215,ISCGEM,ISCGEM,ISCGEM,Automatic
 Indonesia,01/14/1971,18:07:23,-3.035,139.737,Earthquake,30,,,5.9,MW,,,,,,,ISCGEM788259,ISCGEM,ISCGEM,ISCGEM,Automatic
@@ -2752,7 +2752,7 @@ Japan,06/17/1973,20:37:57,42.706,146.041,Earthquake,50,,,6,MS,,,,,,,USP0000284,U
 Japan,06/18/1973,05:37:38,42.601,146.383,Earthquake,38,,,5.7,MS,,,,,,,USP000028K,US,US,US,Reviewed
 Japan,06/18/1973,17:45:44,42.498,145.969,Earthquake,29,,,5.8,MB,,,,,,,USP000028V,US,US,US,Reviewed
 Japan,06/19/1973,02:54:10,42.715,146.035,Earthquake,43,,,5.6,MB,,,,,,,USP0000293,US,US,US,Reviewed
-Micronesia, Fed. Sts.,06/19/1973,03:34:19,8.132,137.334,Earthquake,33,,,5.8,MS,,,,,,,USP0000294,US,US,US,Reviewed
+Micronesia Fed. Sts.,06/19/1973,03:34:19,8.132,137.334,Earthquake,33,,,5.8,MS,,,,,,,USP0000294,US,US,US,Reviewed
 Tonga,06/20/1973,12:01:57,-28.518,-176.761,Earthquake,41,,,5.6,MS,,,,,,,USP00002A1,US,US,US,Reviewed
 Japan,06/22/1973,06:07:38,42.941,146.339,Earthquake,53,,,5.5,MB,,,,,,,USP00002AZ,US,US,US,Reviewed
 Tonga,06/22/1973,19:51:41,-21.166,-174.263,Earthquake,33,,,5.5,MB,,,,,,,USP00002B7,US,US,US,Reviewed
@@ -2837,7 +2837,7 @@ United States,08/22/1973,18:14:37,57.067,-154.101,Earthquake,38,,,5.9,MB,,,,,,,U
 Papua New Guinea,08/23/1973,16:55:26,-5.378,151.491,Earthquake,78,,,5.7,MB,,,,,,,USP0000363,US,US,US,Reviewed
 Japan,08/23/1973,23:50:32,37.211,142.126,Earthquake,34,,,5.7,MB,,,,,,,USP000036A,US,US,US,Reviewed
 Papua New Guinea,08/24/1973,20:18:21,-7.194,156.035,Earthquake,62,,,5.8,MB,,,,,,,USP000036N,US,US,US,Reviewed
-Micronesia, Fed. Sts.,08/25/1973,03:44:34,10.607,138.423,Earthquake,33,,,5.8,MB,,,,,,,USP000036S,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/25/1973,03:44:34,10.607,138.423,Earthquake,33,,,5.8,MB,,,,,,,USP000036S,US,US,US,Reviewed
 Japan,08/25/1973,14:39:15,25.78,129.532,Earthquake,33,,,5.6,MB,,,,,,,USP0000375,US,US,US,Reviewed
 Vanuatu,08/27/1973,13:48:32,-15.988,168.102,Earthquake,11,,,5.7,MB,,,,,,,USP0000385,US,US,US,Reviewed
 Mexico,08/28/1973,09:50:40,18.267,-96.598,Earthquake,84,,,6.8,MB,,,,,,,USP000038K,US,US,US,Reviewed
@@ -3052,7 +3052,7 @@ Solomon Islands,03/09/1974,20:18:06,-7.335,156.193,Earthquake,33,,,6.6,MS,,,,,,,
 Ecuador,03/10/1974,16:17:09,0.403,-80.047,Earthquake,43,,,5.6,MS,,,,,,,USP00005JY,US,US,US,Reviewed
 Falkland Islands,03/11/1974,05:33:11,-59.797,-58.838,Earthquake,33,,,5.5,MS,,,,,,,USP00005K5,US,US,US,Reviewed
 Russia,03/11/1974,11:37:33,48.323,153.2,Earthquake,169,,,5.9,MB,,,,,,,USP00005K6,US,US,US,Reviewed
-Micronesia, Fed. Sts.,03/12/1974,15:11:05,8.755,150.946,Earthquake,33,,,5.5,MB,,,,,,,USP00005KT,US,US,US,Reviewed
+Micronesia Fed. Sts.,03/12/1974,15:11:05,8.755,150.946,Earthquake,33,,,5.5,MB,,,,,,,USP00005KT,US,US,US,Reviewed
 Papua New Guinea,03/13/1974,21:19:47,-6.799,154.669,Earthquake,20,,,5.6,MB,,,,,,,USP00005M7,US,US,US,Reviewed
 Vanuatu,03/14/1974,20:58:55,-13.862,166.765,Earthquake,18,,,5.8,MS,,,,,,,USP00005MH,US,US,US,Reviewed
 Indonesia,03/17/1974,03:57:07,1.294,98.555,Earthquake,61,,,5.7,MB,,,,,,,USP00005NA,US,US,US,Reviewed
@@ -3075,7 +3075,7 @@ United States,04/06/1974,01:53:47,55.102,-160.44,Earthquake,27,,,5.7,MB,,,,,,,US
 United States,04/06/1974,03:56:02,55.12,-160.443,Earthquake,40,,,6,MB,,,,,,,USP00005W2,US,US,US,Reviewed
 New Zealand,04/06/1974,12:16:23,-49.044,164.216,Earthquake,33,,,5.5,MB,,,,,,,USP00005W9,US,US,US,Reviewed
 Japan,04/09/1974,13:11:22,45.49,148.292,Earthquake,139,,,5.5,MB,,,,,,,USP00005X8,US,US,US,Reviewed
-Micronesia, Fed. Sts.,04/12/1974,17:45:18,14.263,134.317,Earthquake,33,,,5.5,MB,,,,,,,USP00005Y7,US,US,US,Reviewed
+Micronesia Fed. Sts.,04/12/1974,17:45:18,14.263,134.317,Earthquake,33,,,5.5,MB,,,,,,,USP00005Y7,US,US,US,Reviewed
 Romania,04/17/1974,01:31:34,45.972,21.141,Earthquake,33,,,5.6,MB,,,,,,,USP00005ZT,US,US,US,Reviewed
 Indonesia,04/17/1974,15:21:24,1.516,126.239,Earthquake,33,,,5.5,MB,,,,,,,USP0000604,US,US,US,Reviewed
 Chile,04/18/1974,21:05:58,-38.172,-93.672,Earthquake,33,,,5.5,MB,,,,,,,USP000060P,US,US,US,Reviewed
@@ -3250,7 +3250,7 @@ Japan,09/27/1974,03:10:08,33.602,141.128,Earthquake,46,,,6.1,MS,,,,,,,USP000085Y
 Colombia,09/27/1974,04:09:01,2.691,-71.418,Earthquake,43,,,5.8,MS,,,,,,,USP0000860,US,US,US,Reviewed
 China,09/27/1974,05:26:39,28.596,85.496,Earthquake,70,,,5.6,MB,,,,,,,USP0000861,US,US,US,Reviewed
 Russia,09/27/1974,05:47:29,43.176,146.651,Earthquake,43,,,6.7,MS,,,,,,,USP0000862,US,US,US,Reviewed
-Micronesia, Fed. Sts.,10/01/1974,04:07:27,12.034,141.115,Earthquake,43,,,5.7,MS,,,,,,,USP000087R,US,US,US,Reviewed
+Micronesia Fed. Sts.,10/01/1974,04:07:27,12.034,141.115,Earthquake,43,,,5.7,MS,,,,,,,USP000087R,US,US,US,Reviewed
 Peru,10/02/1974,02:55:00,-5.906,-81.093,Earthquake,5,,,5.7,MB,,,,,,,USP000087Z,US,US,US,Reviewed
 Peru,10/03/1974,14:21:29,-12.265,-77.795,Earthquake,13,,,7.6,MS,,,,,,,USP0000888,US,US,US,Reviewed
 Pakistan,10/04/1974,22:24:33,26.288,66.543,Earthquake,33,,,5.9,MS,,,,,,,USP0000898,US,US,US,Reviewed
@@ -3504,7 +3504,7 @@ Japan,06/14/1975,23:36:28,36.279,143.429,Earthquake,19,,,6.1,MB,,,,,,,USP0000BJZ
 Russia,06/15/1975,00:19:34,43.667,147.801,Earthquake,38,,,6.2,MS,,,,,,,USP0000BK0,US,US,US,Reviewed
 Russia,06/15/1975,00:22:41,43.965,147.009,Earthquake,33,,,5.7,MB,,,,,,,USP0000BK1,US,US,US,Reviewed
 Russia,06/15/1975,02:09:09,42.624,148.052,Earthquake,10,,,5.6,MB,,,,,,,USP0000BK5,US,US,US,Reviewed
-Micronesia, Fed. Sts.,06/15/1975,04:42:50,11.894,141.408,Earthquake,61,,,5.5,MB,,,,,,,USP0000BK8,US,US,US,Reviewed
+Micronesia Fed. Sts.,06/15/1975,04:42:50,11.894,141.408,Earthquake,61,,,5.5,MB,,,,,,,USP0000BK8,US,US,US,Reviewed
 Papua New Guinea,06/16/1975,22:35:23,-3.043,147.821,Earthquake,33,,,6.5,MS,,,,,,,USP0000BM9,US,US,US,Reviewed
 South Georgia and South Sandwich Is.,06/17/1975,09:26:07,-56.765,-25.367,Earthquake,33,,,5.5,MB,,,,,,,USP0000BMM,US,US,US,Reviewed
 Vanuatu,06/18/1975,16:32:29,-13.733,167.188,Earthquake,201,,,5.5,MB,,,,,,,USP0000BN8,US,US,US,Reviewed
@@ -5916,7 +5916,7 @@ Vanuatu,07/19/1981,04:42:59,-17.143,167.524,Earthquake,46,,,5.5,MS,,14,,,,1,USP0
 Vanuatu,07/21/1981,11:47:01,-15.436,167.473,Earthquake,143.1,4.1,,5.8,MB,,47,,,,1,USP0001EUP,US,US,US,Reviewed
 Iran,07/23/1981,00:05:31,37.141,45.23,Earthquake,33,,,5.6,MS,,11,,,,1.2,USP0001EVR,US,US,US,Reviewed
 New Caledonia,07/23/1981,00:50:17,-21.681,169.523,Earthquake,33,,,5.6,MB,,12,,,,1.3,USP0001EVS,US,US,US,Reviewed
-Micronesia, Fed. Sts.,07/26/1981,20:50:46,11.88,141.681,Earthquake,55.2,4,,5.5,MB,,34,,,,1,USP0001EYF,US,US,US,Reviewed
+Micronesia Fed. Sts.,07/26/1981,20:50:46,11.88,141.681,Earthquake,55.2,4,,5.5,MB,,34,,,,1,USP0001EYF,US,US,US,Reviewed
 Chile,07/28/1981,03:03:22,-41.574,-73.204,Earthquake,43,,,5.5,MB,,16,,,,1.2,USP0001EZ3,US,US,US,Reviewed
 Iran,07/28/1981,17:22:25,30.013,57.794,Earthquake,33,,,7.1,MS,,13,,,,1.2,USP0001EZF,US,US,US,Reviewed
 New Caledonia,07/29/1981,01:11:13,-21.617,169.627,Earthquake,39.5,2.6,,6.2,MS,,16,,,,1.1,USP0001EZZ,US,US,US,Reviewed
@@ -5954,7 +5954,7 @@ United States,09/04/1981,15:50:50,33.66,-119.11,Earthquake,5,,,5.8,MWC,,,,,,,GCM
 New Caledonia,09/06/1981,11:02:41,-21.488,169.6,Earthquake,31,,,6.2,MS,,17,,,,1,USP0001FQ6,US,US,US,Reviewed
 Japan,09/07/1981,19:06:03,30.649,141.551,Earthquake,33,,,5.8,MB,,90,,,,0.9,USP0001FR3,US,US,US,Reviewed
 Russia,09/08/1981,19:26:27,43.406,146.463,Earthquake,45.5,5.9,,5.7,MB,,87,,,,0.8,USP0001FRN,US,US,US,Reviewed
-Micronesia, Fed. Sts.,09/10/1981,23:21:24,10.678,144.746,Earthquake,13.4,3,,5.6,MB,,41,,,,0.9,USP0001FST,US,US,US,Reviewed
+Micronesia Fed. Sts.,09/10/1981,23:21:24,10.678,144.746,Earthquake,13.4,3,,5.6,MB,,41,,,,0.9,USP0001FST,US,US,US,Reviewed
 Pakistan,09/12/1981,07:15:54,35.693,73.594,Earthquake,33,,,6.2,MB,,83,,,,1.1,USP0001FTP,US,US,US,Reviewed
 Kazakhstan,09/13/1981,02:17:18,49.897,78.983,Nuclear Explosion,0,,,6,MB,,102,,,,0.8,USP0001FUT,US,US,US,Reviewed
 South Georgia and South Sandwich Is.,09/13/1981,07:25:12,-60.843,-19.751,Earthquake,10,,,5.6,MS,,10,,,,1,USP0001FUY,US,US,US,Reviewed
@@ -6470,7 +6470,7 @@ Solomon Islands,02/09/1983,07:02:33,-7.574,156.04,Earthquake,43.2,2.6,,5.7,MS,,1
 Philippines,02/12/1983,08:47:13,5.669,126.297,Earthquake,51,,,6.3,MW,,,,,,1.2,USP0001SZ9,US,US,NC,Reviewed
 China,02/13/1983,01:40:11,39.945,75.135,Earthquake,16.1,3.8,,6.2,MS,,12,,,,1.3,USP0001T06,US,US,US,Reviewed
 Guam,02/13/1983,06:35:30,13.837,144.935,Earthquake,105,,,5.7,MB,,61,,,,1.2,USP0001T0H,US,US,US,Reviewed
-Micronesia, Fed. Sts.,02/14/1983,00:23:19,10.504,140.924,Earthquake,39,,,6.2,MW,,,,,,1.2,USP0001T12,US,US,NC,Reviewed
+Micronesia Fed. Sts.,02/14/1983,00:23:19,10.504,140.924,Earthquake,39,,,6.2,MW,,,,,,1.2,USP0001T12,US,US,NC,Reviewed
 United States,02/14/1983,03:20:04,54.931,-159.189,Earthquake,47,,,6.5,MW,,,,,,1.3,USP0001T1B,US,US,NC,Reviewed
 United States,02/14/1983,08:10:04,54.969,-159.236,Earthquake,33,,,5.9,MW,,,,,,1.1,USP0001T1G,US,US,NC,Reviewed
 Tonga,02/17/1983,16:10:39,-21.592,-174.179,Earthquake,32,,,5.8,MB,,17,,,,1.2,USP0001T48,US,US,US,Reviewed
@@ -6828,9 +6828,9 @@ Maldives,12/08/1983,01:26:22,4.396,62.513,Earthquake,10,,,5.5,MB,,43,,,,0.9,USP0
 Tonga,12/08/1983,02:19:11,-19.216,-178.378,Earthquake,627,1.8,,5.5,MB,,47,,,,1,USP00020BK,US,US,US,Reviewed
 Mexico,12/08/1983,10:21:57,18.548,-102.581,Earthquake,68.3,3.9,,5.5,MB,,55,,,,1.3,USP00020BS,US,US,US,Reviewed
 Tonga,12/08/1983,11:01:21,-22.479,-179.503,Earthquake,629.6,2,,5.5,MB,,32,,,,1.2,USP00020BT,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/08/1983,13:17:56,3.792,148.958,Earthquake,10,,,6.3,MW,,,,,,1.2,USP00020BX,US,US,NC,Reviewed
+Micronesia Fed. Sts.,12/08/1983,13:17:56,3.792,148.958,Earthquake,10,,,6.3,MW,,,,,,1.2,USP00020BX,US,US,NC,Reviewed
 Japan,12/08/1983,13:50:51,46.248,150.927,Earthquake,97.7,4.6,,5.6,MB,,71,,,,0.8,USP00020BY,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/11/1983,09:13:49,8.137,137.239,Earthquake,23.9,,,6.4,MW,,,,,,1.2,USP00020DR,US,US,NC,Reviewed
+Micronesia Fed. Sts.,12/11/1983,09:13:49,8.137,137.239,Earthquake,23.9,,,6.4,MW,,,,,,1.2,USP00020DR,US,US,NC,Reviewed
 Vanuatu,12/11/1983,13:02:53,-18.361,168.047,Earthquake,54.2,4.8,,5.5,MB,,11,,,,1.2,USP00020DV,US,US,US,Reviewed
 Papua New Guinea,12/11/1983,22:17:21,-5.077,151.892,Earthquake,85.5,3.8,,5.5,MB,,15,,,,1.1,USP00020E9,US,US,US,Reviewed
 Timor-Leste,12/12/1983,09:26:07,-7.583,127.288,Earthquake,136.9,1.1,,6.4,MW,,,,,,1.1,USP00020EU,US,US,NC,Reviewed
@@ -6891,7 +6891,7 @@ Tonga,01/17/1984,19:49:59,-22.216,-179.674,Earthquake,586.1,2.4,,5.6,MW,,,,,,1,U
 South Georgia and South Sandwich Is.,01/18/1984,07:45:36,-55.855,-29.669,Earthquake,53,,,5.6,MB,,7,,,,1.3,USP00021BP,US,US,US,Reviewed
 Pakistan,01/18/1984,14:08:19,27.931,65.711,Earthquake,10,,,5.6,MW,,,,,,1,USP00021BW,US,US,HRV,Reviewed
 Tonga,01/19/1984,16:15:16,-23.642,-178.321,Earthquake,332.3,2.1,,6.2,MW,,,,,,0.9,USP00021CU,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,01/19/1984,16:34:45,5.988,146.533,Earthquake,30.3,,,6.1,MW,,,,,,1.1,USP00021CV,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,01/19/1984,16:34:45,5.988,146.533,Earthquake,30.3,,,6.1,MW,,,,,,1.1,USP00021CV,US,US,HRV,Reviewed
 Wallis and Futuna Islands,01/20/1984,03:53:03,-17.833,-178.571,Earthquake,534.2,,,5.6,MW,,,,,,0.9,USP00021D7,US,US,HRV,Reviewed
 Tonga,01/22/1984,13:51:51,-21.369,-174.227,Earthquake,50.9,,,5.5,MW,,,,,,1.2,USP00021FG,US,US,HRV,Reviewed
 Japan,01/23/1984,07:34:58,29.26,130.404,Earthquake,43.7,2.1,,5.9,MW,,,,,,1.2,USP00021G6,US,US,HRV,Reviewed
@@ -7105,7 +7105,7 @@ Mauritius,07/09/1984,13:27:50,-25.286,70.097,Earthquake,10,,,5.5,MW,,,,,,1.2,USP
 Indonesia,07/09/1984,23:19:04,-5.788,111.298,Earthquake,533.5,,,6.7,MW,,,,,,1.3,USP00025MM,US,US,HRV,Reviewed
 India,07/10/1984,16:46:51,10.851,94.618,Earthquake,33,,,5.5,MW,,,,,,1.1,USP00025N4,US,US,HRV,Reviewed
 Papua New Guinea,07/10/1984,18:12:20,-6.317,154.792,Earthquake,48.4,,,5.5,MW,,,,,,1.1,USP00025N6,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/11/1984,02:40:44,11.492,138.917,Earthquake,44.5,3.2,,5.6,MW,,,,,,1.1,USP00025NG,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,07/11/1984,02:40:44,11.492,138.917,Earthquake,44.5,3.2,,5.6,MW,,,,,,1.1,USP00025NG,US,US,HRV,Reviewed
 Philippines,07/11/1984,05:40:21,5.54,126.479,Earthquake,55.3,3.4,,5.9,MW,,,,,,1.1,USP00025NR,US,US,HRV,Reviewed
 Timor-Leste,07/12/1984,17:20:27,-7.32,126.026,Earthquake,469.7,2.8,,5.5,MW,,,,,,1.1,USP00025Q8,US,US,HRV,Reviewed
 Kazakhstan,07/14/1984,01:09:11,49.891,78.963,Nuclear Explosion,0,,,6.2,MB,,116,,,,0.9,USP00025QV,US,US,US,Reviewed
@@ -7279,7 +7279,7 @@ Russia,11/17/1984,10:21:00,47.524,154.492,Earthquake,43.1,,,5.7,MW,,,,,,0.8,USP0
 Papua New Guinea,11/17/1984,12:12:59,-4.688,153.183,Earthquake,63.5,1.9,,5.7,MW,,,,,,1,USP000295B,US,US,HRV,Reviewed
 Tonga,11/17/1984,13:45:49,-18.785,-178.032,Earthquake,451.4,,,6.7,MW,,,,,,1,USP000295C,US,US,HRV,Reviewed
 Japan,11/17/1984,18:27:12,28.299,139.919,Earthquake,450.2,1.7,,5.6,MW,,,,,,0.9,USP000295G,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,11/17/1984,18:59:15,12.274,140.802,Earthquake,33,,,5.6,MW,,,,,,1,USP000295J,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,11/17/1984,18:59:15,12.274,140.802,Earthquake,33,,,5.6,MW,,,,,,1,USP000295J,US,US,HRV,Reviewed
 Tonga,11/17/1984,22:43:40,-18.404,-175.701,Earthquake,33,,,6.2,MW,,,,,,1.4,USP000295P,US,US,HRV,Reviewed
 Tonga,11/18/1984,00:49:11,-18.778,-175.507,Earthquake,229.5,,,5.8,MW,,,,,,1.1,USP000295T,US,US,HRV,Reviewed
 Russia,11/19/1984,04:10:42,51.17,179.096,Earthquake,38.6,4.6,,5.9,MW,,,,,,1,USP000296S,US,US,HRV,Reviewed
@@ -7648,7 +7648,7 @@ Tonga,08/09/1985,06:09:15,-15.315,-174.62,Earthquake,208.2,,,6.1,MW,,,,,,0.9,USP
 Philippines,08/09/1985,19:59:44,16.9,120.186,Earthquake,21.7,,,6.1,MW,,,,,,1.1,USP0002HJ2,US,US,HRV,Reviewed
 Indonesia,08/10/1985,04:12:46,-6.014,105.393,Earthquake,93.5,8.1,,5.6,MW,,,,,,1.2,USP0002HJH,US,US,HRV,Reviewed
 Papua New Guinea,08/10/1985,16:36:08,-4.249,152.877,Earthquake,32,,,5.7,MW,,,,,,0.9,USP0002HK3,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,08/11/1985,00:19:02,11.156,140.217,Earthquake,24,,,6.1,MW,,,,,,1.1,USP0002HKE,US,US,NC,Reviewed
+Micronesia Fed. Sts.,08/11/1985,00:19:02,11.156,140.217,Earthquake,24,,,6.1,MW,,,,,,1.1,USP0002HKE,US,US,NC,Reviewed
 Russia,08/11/1985,09:59:44,54.139,168.731,Earthquake,50.4,,,6.3,MW,,,,,,1,USP0002HKY,US,US,NC,Reviewed
 Chile,08/12/1985,00:04:51,-38.378,-73.495,Earthquake,33,,,6.2,MW,,,,,,1.2,USP0002HMC,US,US,HRV,Reviewed
 Japan,08/12/1985,03:49:18,37.771,141.773,Earthquake,51.6,2.3,,6.5,MW,,,,,,1,USP0002HMV,US,US,HRV,Reviewed
@@ -7753,7 +7753,7 @@ Fiji,11/02/1985,21:12:55,-18.156,175.883,Earthquake,10,,,5.5,MS,,5,,,,1.3,USP000
 Philippines,11/04/1985,21:23:09,13.667,120.194,Earthquake,77.4,6.2,,5.7,MW,,,,,,1.1,USP0002MFD,US,US,HRV,Reviewed
 South Georgia and South Sandwich Is.,11/06/1985,08:15:40,-58.716,-26.223,Earthquake,132,,,6.2,MW,,,,,,0.8,USP0002MGM,US,US,HRV,Reviewed
 New Zealand,11/07/1985,19:12:31,-35.257,-179.347,Earthquake,44,,,6.5,MW,,,,,,1,USP0002MHS,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,11/07/1985,23:34:34,7.698,137.026,Earthquake,33.5,4.3,,6.1,MW,,,,,,1.1,USP0002MHX,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,11/07/1985,23:34:34,7.698,137.026,Earthquake,33.5,4.3,,6.1,MW,,,,,,1.1,USP0002MHX,US,US,HRV,Reviewed
 Japan,11/08/1985,18:40:25,27.957,140.607,Earthquake,41.5,3.8,,6.2,MW,,,,,,1.1,USP0002MJR,US,US,NC,Reviewed
 Japan,11/08/1985,20:02:05,27.8,140.624,Earthquake,41.2,10.2,,5.7,MW,,,,,,1.1,USP0002MJU,US,US,HRV,Reviewed
 Indonesia,11/09/1985,12:56:12,-9.818,123.739,Earthquake,26.2,,,5.8,MW,,,,,,1.2,USP0002MKG,US,US,HRV,Reviewed
@@ -7896,7 +7896,7 @@ Tonga,03/14/1986,16:55:53,-30.07,-176.559,Earthquake,42.1,4.6,,6.2,MW,,,,,,1.1,U
 Bolivia,03/15/1986,11:29:44,-18.909,-67.391,Earthquake,243.1,,,6.3,MW,,,,,,1,USP0002RVW,US,US,HRV,Reviewed
 South Georgia and South Sandwich Is.,03/15/1986,18:32:11,-55.931,-27.429,Earthquake,89.5,,,5.7,MW,,,,,,0.9,USP0002RW5,US,US,HRV,Reviewed
 Japan,03/17/1986,09:18:25,27.421,139.866,Earthquake,476.4,4.4,,5.7,MW,,,,,,0.8,USP0002RXM,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,03/19/1986,21:28:02,12.413,141.762,Earthquake,43.2,7.2,,5.5,MW,,,,,,1.1,USP0002RZR,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,03/19/1986,21:28:02,12.413,141.762,Earthquake,43.2,7.2,,5.5,MW,,,,,,1.1,USP0002RZR,US,US,HRV,Reviewed
 Indonesia,03/21/1986,21:35:36,-7.455,120.646,Earthquake,613.9,2.8,,5.5,MW,,,,,,0.9,USP0002S1F,US,US,HRV,Reviewed
 Canada,03/21/1986,23:56:19,54.284,-121.854,Earthquake,18,,,5.5,MW,,,,,,,USP0002S1G,US,PGC,HRV,Reviewed
 Taiwan,03/22/1986,04:45:33,23.422,121.565,Earthquake,44.5,5.6,,5.9,MW,,,,,,1.1,USP0002S1S,US,US,HRV,Reviewed
@@ -8066,7 +8066,7 @@ Tonga,07/02/1986,04:16:58,-22.038,-179.534,Earthquake,597.5,,,5.8,MW,,,,,,0.9,US
 South Georgia and South Sandwich Is.,07/02/1986,12:53:08,-59.55,-26.164,Earthquake,53.4,,,5.5,MW,,,,,,1,USP0002VNH,US,US,HRV,Reviewed
 Chile,07/02/1986,20:45:51,-26.775,-114.283,Earthquake,10,,,5.7,MW,,,,,,1.1,USP0002VNP,US,US,HRV,Reviewed
 United States,07/05/1986,03:01:33,51.248,-179.746,Earthquake,33,,,5.7,MW,,,,,,1,USP0002VQK,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/05/1986,14:11:18,12.183,140.933,Earthquake,37.9,8.7,,5.5,MW,,,,,,1.1,USP0002VQX,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,07/05/1986,14:11:18,12.183,140.933,Earthquake,37.9,8.7,,5.5,MW,,,,,,1.1,USP0002VQX,US,US,HRV,Reviewed
 Australia,07/05/1986,19:57:39,-60.721,153.771,Earthquake,10,,,6.1,MW,,,,,,1.1,USP0002VR4,US,US,HRV,Reviewed
 South Georgia and South Sandwich Is.,07/05/1986,21:19:59,-57.281,-25.86,Earthquake,33,,,5.5,MB,,14,,,,1.1,USP0002VR6,US,US,US,Reviewed
 Mexico,07/05/1986,22:09:37,15.467,-92.582,Earthquake,111.9,,,6,MW,,,,,,1.1,USP0002VR7,US,US,HRV,Reviewed
@@ -8531,7 +8531,7 @@ Papua New Guinea,06/03/1987,08:15:47,-6.356,148.838,Earthquake,60.8,4.1,,5.6,MW,
 Indonesia,06/04/1987,23:45:42,-4.615,101.96,Earthquake,42.8,,,5.8,MW,,,,,,1.3,USP00035H9,US,US,HRV,Reviewed
 Japan,06/05/1987,00:08:21,39.729,142.82,Earthquake,58.8,9.6,,5.5,MS,,2,,,,1,USP00035HC,US,US,US,Reviewed
 China,06/05/1987,04:59:58,41.584,88.737,Nuclear Explosion,0,,,6.2,MB,,139,,,,0.9,USP00035HR,US,US,US,Reviewed
-Micronesia, Fed. Sts.,06/05/1987,16:23:17,11.574,141.641,Earthquake,33,,,5.5,MW,,,,,,1.1,USP00035J1,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,06/05/1987,16:23:17,11.574,141.641,Earthquake,33,,,5.5,MW,,,,,,1.1,USP00035J1,US,US,HRV,Reviewed
 Indonesia,06/05/1987,21:25:11,5.381,127.534,Earthquake,45.1,7.7,,6.1,MW,,,,,,1.3,USP00035J7,US,US,HRV,Reviewed
 Indonesia,06/05/1987,22:00:03,5.265,127.513,Earthquake,47,7.2,,5.8,MW,,,,,,1.2,USP00035J8,US,US,HRV,Reviewed
 Indonesia,06/05/1987,22:50:47,5.333,127.397,Earthquake,69.1,6.3,,5.5,MW,,,,,,1.2,USP00035J9,US,US,HRV,Reviewed
@@ -9059,7 +9059,7 @@ Wallis and Futuna Islands,07/01/1988,02:07:01,-16.234,-177.714,Earthquake,33,,,5
 Wallis and Futuna Islands,07/01/1988,02:55:33,-16.247,-177.629,Earthquake,32.1,,,5.9,MW,,,,,,1.2,USP0003HG5,US,US,HRV,Reviewed
 Vanuatu,07/02/1988,10:01:29,-14.278,167.18,Earthquake,142.7,,,6.3,MW,,,,,,1,USP0003HHE,US,US,NC,Reviewed
 Fiji,07/03/1988,05:09:43,-24.822,179.38,Earthquake,537.1,,,5.7,MW,,,,,,1.1,USP0003HJ0,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/03/1988,11:43:13,8.919,137.896,Earthquake,14.6,,,6.6,MW,,,,,,1.1,USP0003HJB,US,US,NC,Reviewed
+Micronesia Fed. Sts.,07/03/1988,11:43:13,8.919,137.896,Earthquake,14.6,,,6.6,MW,,,,,,1.1,USP0003HJB,US,US,NC,Reviewed
 Pitcairn,07/04/1988,03:35:52,-56.752,-140.605,Earthquake,10,,,5.5,MW,,,,,,1.3,USP0003HJN,US,US,HRV,Reviewed
 Peru,07/04/1988,13:54:14,-17.636,-71.718,Earthquake,19.8,,,5.8,MW,,,,,,0.9,USP0003HK4,US,US,HRV,Reviewed
 Indonesia,07/04/1988,14:38:59,2.804,128.209,Earthquake,38,,,5.6,MW,,,,,,1.2,USP0003HK6,US,US,HRV,Reviewed
@@ -9149,7 +9149,7 @@ Chile,08/21/1988,12:18:55,-26.546,-112.671,Earthquake,10,,,5.5,MW,,,,,,1.1,USP00
 Chile,08/21/1988,13:51:43,-42.903,-85.773,Earthquake,10,,,5.6,MW,,,,,,1,USP0003K7Y,US,US,HRV,Reviewed
 Indonesia,08/23/1988,19:53:40,-2.505,138.929,Earthquake,53.6,,,5.8,MW,,,,,,1.2,USP0003KAT,US,US,HRV,Reviewed
 Tonga,08/26/1988,07:33:27,-15.37,-172.933,Earthquake,77.8,,,5.7,MW,,,,,,1.2,USP0003KDE,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,08/27/1988,01:25:18,11.38,141.413,Earthquake,33,,,5.8,MW,,,,,,1.2,USP0003KE5,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,08/27/1988,01:25:18,11.38,141.413,Earthquake,33,,,5.8,MW,,,,,,1.2,USP0003KE5,US,US,HRV,Reviewed
 Tonga,08/27/1988,10:15:02,-19.685,-176.278,Earthquake,35,15.2,,5.8,MW,,,,,,1.2,USP0003KEM,US,US,HRV,Reviewed
 Tonga,08/27/1988,16:30:17,-15.864,-172.067,Earthquake,27.9,,,5.7,MW,,,,,,0.9,USP0003KEY,US,US,HRV,Reviewed
 Sierra Leone,08/27/1988,16:52:24,0.89,-20.99,Earthquake,10,,,5.5,MWC,,,,,,,GCMTB082788D,GCMT,GCMT,GCMT,Automatic
@@ -10023,7 +10023,7 @@ Tonga,06/08/1990,15:05:10,-18.874,-178.789,Earthquake,499.2,,,6.5,MW,,,,,,1.1,US
 Indonesia,06/08/1990,21:37:38,-9.103,120.264,Earthquake,33,,,5.5,MW,,,,,,1.1,USP0004A9N,US,US,HRV,Reviewed
 Peru,06/09/1990,01:14:35,-6.062,-77.136,Earthquake,25.6,,,5.5,MW,,,,,,1,USP0004A9W,US,US,HRV,Reviewed
 Indonesia,06/09/1990,21:38:21,1.253,123.422,Earthquake,34.3,,,5.6,MW,,,,,,1.3,USP0004AB0,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,06/13/1990,02:44:08,9.457,138.202,Earthquake,20.6,,,5.6,MW,,,,,,0.9,USP0004AEV,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,06/13/1990,02:44:08,9.457,138.202,Earthquake,20.6,,,5.6,MW,,,,,,0.9,USP0004AEV,US,US,HRV,Reviewed
 Philippines,06/13/1990,16:41:54,6.371,126.396,Earthquake,77.2,,,5.8,MW,,,,,,1,USP0004AF8,US,US,HRV,Reviewed
 Philippines,06/14/1990,07:40:56,11.76,121.899,Earthquake,18.1,,,7.1,MW,,,,,,1.2,USP0004AG6,US,US,HRV,Reviewed
 Philippines,06/14/1990,08:31:10,11.603,121.808,Earthquake,17.8,,,5.6,MS,,1,,,,1.1,USP0004AGA,US,US,US,Reviewed
@@ -10147,7 +10147,7 @@ Indonesia,08/27/1990,15:17:12,-6.87,125.452,Earthquake,506.4,,,5.9,MW,,,,,,0.9,U
 Tonga,08/28/1990,03:16:53,-19.447,-175.735,Earthquake,243.8,,,5.6,MW,,,,,,1,USP0004E00,US,US,HRV,Reviewed
 French Guiana,08/30/1990,15:54:30,15.968,-47.92,Earthquake,10,,,5.7,MW,,,,,,1.1,USP0004E3N,US,US,HRV,Reviewed
 Panama,08/30/1990,18:33:01,6.146,-82.634,Earthquake,10,,,5.5,MW,,,,,,1.4,USP0004E3W,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,08/31/1990,00:13:57,12.006,140.616,Earthquake,52,8.9,,5.5,MW,,,,,,1,USP0004E47,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,08/31/1990,00:13:57,12.006,140.616,Earthquake,52,8.9,,5.5,MW,,,,,,1,USP0004E47,US,US,HRV,Reviewed
 Ecuador,09/02/1990,04:26:48,-0.143,-80.283,Earthquake,14.2,,,6.6,MW,,,,,,1.1,USP0004E6R,US,US,NC,Reviewed
 Chile,09/02/1990,10:06:52,-41.21,-90.129,Earthquake,10,,,5.6,MW,,,,,,1.2,USP0004E78,US,US,HRV,Reviewed
 Papua New Guinea,09/02/1990,12:51:18,-3.134,148.134,Earthquake,40.6,,,5.8,MW,,,,,,1.2,USP0004E7E,US,US,HRV,Reviewed
@@ -10788,7 +10788,7 @@ Guatemala,02/21/1992,22:09:55,13.969,-92.216,Earthquake,55,4.9,,5.8,MW,,,,,,1.1,
 Yemen,02/26/1992,03:45:20,11.803,57.764,Earthquake,10,,,6,MWB,,,,,,1.1,USP00053GT,US,US,US,Reviewed
 Papua New Guinea,02/27/1992,20:05:24,-6.191,147.576,Earthquake,38.5,,,6.7,MW,,,,,,1.1,USP00053K1,US,US,HRV,Reviewed
 Chile,02/28/1992,09:14:09,-24.369,-69.924,Earthquake,58.4,,,5.8,MW,,,,,,1,USP00053KS,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,02/29/1992,05:42:46,12.265,141.242,Earthquake,32.8,,,5.6,MW,,,,,,0.9,USP00053MX,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,02/29/1992,05:42:46,12.265,141.242,Earthquake,32.8,,,5.6,MW,,,,,,0.9,USP00053MX,US,US,HRV,Reviewed
 New Zealand,03/02/1992,09:05:56,-40.337,176.363,Earthquake,27.9,,,5.5,MW,,,,,,1.1,USP00053RA,US,US,HRV,Reviewed
 Russia,03/02/1992,12:29:40,52.915,159.886,Earthquake,38.6,,,6.9,MWB,,,,,,1.1,USP00053RS,US,US,US,Reviewed
 Russia,03/02/1992,14:08:00,52.835,159.876,Earthquake,34.9,,,6,MS,,5,,,,0.9,USP00053S0,US,US,US,Reviewed
@@ -10866,7 +10866,7 @@ China,04/23/1992,14:18:35,22.437,98.904,Earthquake,12,,,6.1,MW,,,,,,1.1,USP00056
 China,04/23/1992,15:32:49,22.418,98.852,Earthquake,9.6,,,6.2,MW,,,,,,1.1,USP000568Q,US,US,HRV,Reviewed
 Papua New Guinea,04/24/1992,03:24:01,-3.516,144.849,Earthquake,22.5,,,5.5,MW,,,,,,1.1,USP00056A8,US,US,HRV,Reviewed
 Pakistan,04/24/1992,07:07:24,27.55,66.065,Earthquake,25,,,6.2,MWB,,,,,,1,USP00056AN,US,US,US,Reviewed
-Micronesia, Fed. Sts.,04/24/1992,12:51:54,8.391,141.009,Earthquake,43.8,,,5.6,MW,,,,,,1.1,USP00056B5,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,04/24/1992,12:51:54,8.391,141.009,Earthquake,43.8,,,5.6,MW,,,,,,1.1,USP00056B5,US,US,HRV,Reviewed
 Chile,04/24/1992,17:38:53,-9.028,-109.735,Earthquake,10,,,5.9,MW,,,,,,1,USP00056BM,US,US,HRV,Reviewed
 United States,04/25/1992,18:06:05,40.3353333,-124.2286667,Earthquake,9.856,0.64,9,7.2,MH,,0,115,0.1072,0.33,0.07,NC269151,NC,NC,NC,Reviewed
 Indonesia,04/26/1992,01:25:15,2.369,123.054,Earthquake,446.9,,,5.6,MW,,,,,,1,USP00056EX,US,US,HRV,Reviewed
@@ -11623,7 +11623,7 @@ United States,09/21/1993,05:45:35,42.3575,-122.0583333,Earthquake,8.53,0.85,234,
 Ecuador,09/21/1993,18:53:09,-4.525,-105.723,Earthquake,10,,,5.8,MW,,,,,,1.2,USP00060T8,US,US,HRV,Reviewed
 Ethiopia,09/21/1993,19:11:36,11.478,39.638,Earthquake,15.2,,,5.7,MW,,,,,,1,USP00060T9,US,US,HRV,Reviewed
 Papua New Guinea,09/22/1993,12:37:04,-6.47,154.901,Earthquake,27.5,,,6.1,MWB,,,,,,1,USP00060V8,US,US,US,Reviewed
-Micronesia, Fed. Sts.,09/26/1993,03:31:15,9.997,138.222,Earthquake,10,,,6.3,MW,,,,,,1.1,USP0006122,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,09/26/1993,03:31:15,9.997,138.222,Earthquake,10,,,6.3,MW,,,,,,1.1,USP0006122,US,US,HRV,Reviewed
 Guam,09/26/1993,11:55:52,13.009,145.016,Earthquake,63.7,,,5.8,MW,,,,,,1,USP000612P,US,US,HRV,Reviewed
 Japan,09/27/1993,04:43:56,30.678,132.121,Earthquake,37.9,,,5.6,MW,,,,,,1,USP000613S,US,US,HRV,Reviewed
 Falkland Islands,09/27/1993,13:37:33,-53.651,-51.621,Earthquake,33,,,6.6,MW,,,,,,1.2,USP000614G,US,US,HRV,Reviewed
@@ -11823,7 +11823,7 @@ Iran,02/28/1994,11:13:54,30.805,60.562,Earthquake,10,,,5.6,MW,,,,,,1,USP000692Z,
 United States,02/28/1994,21:52:56,44.636,-129.94,Earthquake,10,,,5.6,MW,,,,,,1.3,USP000693G,US,US,HRV,Reviewed
 Iran,03/01/1994,03:49:01,29.096,52.617,Earthquake,12.9,,,6.1,MW,,,,,,1.1,USP000693T,US,US,HRV,Reviewed
 Chile,03/06/1994,08:01:43,-21.556,-113.701,Earthquake,10,,,5.8,MW,,,,,,0.9,USP00069AS,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,03/07/1994,04:44:58,11.737,140.1,Earthquake,25.6,,,5.6,MW,,,,,,1.3,USP00069C0,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,03/07/1994,04:44:58,11.737,140.1,Earthquake,25.6,,,5.6,MW,,,,,,1.3,USP00069C0,US,US,HRV,Reviewed
 Solomon Islands,03/09/1994,12:08:35,-9.58,154.986,Earthquake,37.5,,,5.9,MW,,,,,,1.1,USP00069EZ,US,US,HRV,Reviewed
 Solomon Islands,03/09/1994,16:58:38,-9.444,159.604,Earthquake,10,,,5.8,MW,,,,,,0.9,USP00069F9,US,US,HRV,Reviewed
 Wallis and Futuna Islands,03/09/1994,23:28:07,-18.039,-178.413,Earthquake,562.5,,,7.6,MW,,,,,,1,USP00069FM,US,US,HRV,Reviewed
@@ -12181,7 +12181,7 @@ Solomon Islands,11/03/1994,03:07:22,-10.931,166.247,Earthquake,155.8,,,5.8,MW,,,
 Brazil,11/04/1994,01:13:20,-9.379,-71.334,Earthquake,591.3,,,6.1,MW,,,,,,1,USP0006N3B,US,US,HRV,Reviewed
 Tonga,11/04/1994,10:12:42,-17.417,-172.027,Earthquake,33,,,5.5,MW,,,,,,1.1,USP0006N3Y,US,US,HRV,Reviewed
 New Zealand,11/05/1994,02:16:03,-57.193,157.858,Earthquake,24.7,,,6.5,MWB,,,,,,1.2,USP0006N54,US,US,US,Reviewed
-Micronesia, Fed. Sts.,11/05/1994,10:52:15,10.721,141.311,Earthquake,31,,,5.6,MW,,,,,,1.1,USP0006N5M,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,11/05/1994,10:52:15,10.721,141.311,Earthquake,31,,,5.6,MW,,,,,,1.1,USP0006N5M,US,US,HRV,Reviewed
 Brazil,11/05/1994,12:05:29,-9.386,-71.335,Earthquake,597.1,,,5.6,MW,,,,,,0.9,USP0006N5P,US,US,HRV,Reviewed
 Philippines,11/06/1994,11:52:55,7.273,126.98,Earthquake,41.5,,,5.5,MW,,,,,,1.2,USP0006N6K,US,US,HRV,Reviewed
 Russia,11/09/1994,18:21:03,43.556,147.144,Earthquake,53.8,,,5.8,MWB,,,,,,0.8,USP0006NBF,US,US,US,Reviewed
@@ -12545,7 +12545,7 @@ Maldives,07/08/1995,11:39:06,4.308,62.4,Earthquake,10,,,5.6,MW,,,,,,1,USP00070B2
 United States,07/08/1995,17:15:26,53.578,-163.74,Earthquake,21.1,,,6,MWB,,,,,,1.2,USP00070BG,US,US,US,Reviewed
 Tonga,07/08/1995,23:49:44,-24.265,-176.316,Earthquake,19.6,,,5.8,MW,,,,,,0.9,USP00070C2,US,US,HRV,Reviewed
 China,07/09/1995,20:31:31,21.984,99.159,Earthquake,10.1,,,5.9,MW,,,,,,1.2,USP00070DK,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/10/1995,02:42:33,12.379,141.689,Earthquake,56.4,7,,5.5,MW,,,,,,0.9,USP00070DX,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,07/10/1995,02:42:33,12.379,141.689,Earthquake,56.4,7,,5.5,MW,,,,,,0.9,USP00070DX,US,US,HRV,Reviewed
 China,07/11/1995,21:46:40,21.966,99.196,Earthquake,12.5,,,6.8,MW,,,,,,1.3,USP00070G4,US,US,HRV,Reviewed
 Indonesia,07/12/1995,09:38:17,2.483,116.977,Earthquake,33,,,5.5,MW,,,,,,1.1,USP00070GT,US,US,HRV,Reviewed
 New Caledonia,07/12/1995,15:46:57,-23.26,170.865,Earthquake,11.4,,,6.5,MWB,,,,,,1,USP00070H5,US,US,US,Reviewed
@@ -12590,7 +12590,7 @@ Fiji,08/05/1995,19:42:49,-16.255,177.893,Earthquake,33,,,5.7,MW,,,,,,1.1,USP0007
 St. Helena,08/05/1995,22:42:03,-22.563,-10.778,Earthquake,10,,,5.6,MWB,,,,,,1,USP00071GA,US,US,US,Reviewed
 Russia,08/06/1995,11:59:35,44.376,147.271,Earthquake,74.8,,,5.5,MW,,,,,,0.8,USP00071H2,US,US,HRV,Reviewed
 New Zealand,08/07/1995,05:27:53,-59.378,-151.161,Earthquake,10,,,5.7,MW,,,,,,1,USP00071J6,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,08/07/1995,19:44:25,4.041,143.77,Earthquake,12.6,,,6.2,MW,,,,,,1.3,USP00071JS,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,08/07/1995,19:44:25,4.041,143.77,Earthquake,12.6,,,6.2,MW,,,,,,1.3,USP00071JS,US,US,HRV,Reviewed
 New Caledonia,08/08/1995,15:33:45,-23.208,169.147,Earthquake,10,,,5.5,MW,,,,,,1.3,USP00071KT,US,US,HRV,Reviewed
 Chile,08/09/1995,08:23:01,-23.097,-70.151,Earthquake,35,,,5.5,MW,,,,,,1,USP00071N1,US,US,HRV,Reviewed
 New Caledonia,08/11/1995,09:19:22,-23.199,170.813,Earthquake,15.9,,,5.5,MW,,,,,,0.9,USP00071Q9,US,US,HRV,Reviewed
@@ -12707,7 +12707,7 @@ Mexico,10/12/1995,16:52:53,18.81,-104.017,Earthquake,16.1,,,6,MW,,,,,,1.1,USP000
 Chile,10/12/1995,22:57:10,-23.01,-70.466,Earthquake,32.2,,,5.6,MW,,,,,,1.2,USP000751V,US,US,HRV,Reviewed
 Chile,10/12/1995,23:41:45,-35.288,-106.266,Earthquake,8.4,,,6,MWB,,,,,,1.1,USP000751X,US,US,US,Reviewed
 New Zealand,10/13/1995,15:22:23,-59.014,158.28,Earthquake,14.4,,,6.1,MW,,,,,,1,USP000752Z,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,10/13/1995,20:39:03,9.845,140.258,Earthquake,30.1,,,5.6,MW,,,,,,1,USP000753D,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,10/13/1995,20:39:03,9.845,140.258,Earthquake,30.1,,,5.6,MW,,,,,,1,USP000753D,US,US,HRV,Reviewed
 Tonga,10/14/1995,08:00:50,-25.758,-177.522,Earthquake,147.9,,,6.2,MWB,,,,,,1,USP000754C,US,US,US,Reviewed
 Papua New Guinea,10/14/1995,20:44:57,-6.435,154.556,Earthquake,18.6,,,6.1,MW,,,,,,1.2,USP000755E,US,US,HRV,Reviewed
 Papua New Guinea,10/15/1995,15:04:08,-6.514,154.631,Earthquake,14.4,,,6.1,MW,,,,,,1,USP0007570,US,US,HRV,Reviewed
@@ -12870,7 +12870,7 @@ Japan,01/31/1996,19:21:25,44.531,149.372,Earthquake,18.2,9.5,,5.6,MW,,,,,,1,USP0
 Japan,01/31/1996,20:30:42,44.468,149.37,Earthquake,20.6,,,6,MW,,,,,,0.9,USP0007C29,US,US,HRV,Reviewed
 Wallis and Futuna Islands,02/01/1996,04:21:20,-18.08,-178.349,Earthquake,574.3,,,5.5,MW,,,,,,0.9,USP0007C32,US,US,HRV,Reviewed
 Japan,02/01/1996,07:18:04,44.853,146.273,Earthquake,170,,,6.2,MWB,,,,,,0.9,USP0007C3B,US,US,US,Reviewed
-Micronesia, Fed. Sts.,02/02/1996,18:36:11,11.463,141.587,Earthquake,33,,,5.8,MW,,,,,,1.2,USP0007C5Z,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,02/02/1996,18:36:11,11.463,141.587,Earthquake,33,,,5.8,MW,,,,,,1.2,USP0007C5Z,US,US,HRV,Reviewed
 China,02/03/1996,11:14:20,27.291,100.276,Earthquake,11.1,,,6.6,MW,,,,,,1.2,USP0007C7G,US,US,HRV,Reviewed
 China,02/04/1996,16:58:06,27.041,100.299,Earthquake,10,,,5.6,MW,,,,,,1.1,USP0007CB5,US,US,HRV,Reviewed
 New Zealand,02/04/1996,22:56:59,-32.465,-179.504,Earthquake,27.9,,,5.9,MW,,,,,,1.2,USP0007CBU,US,US,HRV,Reviewed
@@ -13095,7 +13095,7 @@ Pitcairn,06/30/1996,22:27:04,-55.177,-127.084,Earthquake,10,,,5.5,MWC,,,,,,1.1,U
 Philippines,07/01/1996,04:52:12,12.479,125.541,Earthquake,33,,,5.5,MWC,,,,,,1.1,USP0007KJ3,US,US,HRV,Reviewed
 China,07/03/1996,06:44:46,30.147,88.189,Earthquake,33,,,5.7,MWB,,,,,,1,USP0007KNA,US,US,US,Reviewed
 Chile,07/03/1996,16:48:28,-23.376,-70.405,Earthquake,33,,,5.9,MWC,,,,,,1.2,USP0007KP2,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/04/1996,15:50:39,8.489,141.564,Earthquake,33,,,5.9,MWC,,,,,,1.3,USP0007KQA,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,07/04/1996,15:50:39,8.489,141.564,Earthquake,33,,,5.9,MWC,,,,,,1.3,USP0007KQA,US,US,HRV,Reviewed
 Solomon Islands,07/05/1996,18:34:42,-10.112,160.898,Earthquake,82.6,9.8,,5.6,MWB,,,,,,1,USP0007KRR,US,US,US,Reviewed
 Indonesia,07/06/1996,05:03:34,2.973,128.354,Earthquake,33,,,5.6,MWB,,,,,,1,USP0007KS7,US,US,US,Reviewed
 Northern Mariana Islands,07/06/1996,11:56:45,15.514,147.657,Earthquake,33,,,5.6,MWC,,,,,,1,USP0007KSM,US,US,HRV,Reviewed
@@ -13916,7 +13916,7 @@ Mexico,03/13/1998,05:24:38,14.368,-92.901,Earthquake,33,,,5.5,MWC,,,,,,1.06,USP0
 French Southern Territories,03/14/1998,11:29:35,-42.005,88.345,Earthquake,10,,,5.5,MWC,,,,,,0.81,USP0008HFN,US,US,HRV,Reviewed
 Iran,03/14/1998,19:40:27,30.154,57.605,Earthquake,9,,,6.6,MWC,,,,,,1.2,USP0008HG7,US,US,HRV,Reviewed
 Tonga,03/19/1998,04:52:41,-19.333,-176.317,Earthquake,33,,,5.8,MWC,,,,,,0.91,USP0008HP6,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,03/19/1998,08:35:56,11.564,141.832,Earthquake,44.8,,,5.5,MWC,,,,,,0.85,USP0008HPE,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,03/19/1998,08:35:56,11.564,141.832,Earthquake,44.8,,,5.5,MWC,,,,,,0.85,USP0008HPE,US,US,HRV,Reviewed
 China,03/19/1998,13:51:34,39.977,76.731,Earthquake,33,,,5.6,MWC,,,,,,0.85,USP0008HPR,US,US,HRV,Reviewed
 New Zealand,03/20/1998,21:08:09,-50.008,163.107,Earthquake,10,,,6.7,MWC,,,,,,1.32,USP0008HS8,US,US,HRV,Reviewed
 Pitcairn,03/21/1998,01:29:09,-54.639,-135.362,Earthquake,10,,,5.5,MWC,,,,,,1.28,USP0008HSG,US,US,HRV,Reviewed
@@ -14259,7 +14259,7 @@ Russia,02/01/1999,11:56:01,85.571,87.141,Earthquake,10,,,5.7,MWC,,,,,,0.97,USP00
 Tonga,02/03/1999,01:13:58,-20.305,-174.365,Earthquake,33,,,6.3,MWB,,,,,,1.08,USP000925U,US,US,US,Reviewed
 Indonesia,02/03/1999,06:35:57,-6.19,104.222,Earthquake,33,,,5.8,MWC,,,,,,0.95,USP0009268,US,US,HRV,Reviewed
 Papua New Guinea,02/04/1999,02:35:36,-8.612,149.279,Earthquake,98.3,,,5.8,MWB,,,,,,0.88,USP000927N,US,US,US,Reviewed
-Micronesia, Fed. Sts.,02/04/1999,15:28:57,11.386,139.018,Earthquake,33,,,5.7,MWC,,,,,,1.07,USP000928T,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,02/04/1999,15:28:57,11.386,139.018,Earthquake,33,,,5.7,MWC,,,,,,1.07,USP000928T,US,US,HRV,Reviewed
 Indonesia,02/04/1999,19:28:01,4.033,95.283,Earthquake,55.5,,,5.9,MWB,,,,,,0.87,USP0009293,US,US,US,Reviewed
 Vanuatu,02/05/1999,11:39:45,-12.616,166.966,Earthquake,213,,,5.9,MWB,,,,,,0.96,USP00092AE,US,US,US,Reviewed
 Japan,02/05/1999,14:37:53,47.505,147.158,Earthquake,407.4,,,5.8,MWC,,,,,,0.74,USP00092AR,US,US,HRV,Reviewed
@@ -14410,7 +14410,7 @@ Tonga,06/16/1999,18:35:59,-17.037,-173.362,Earthquake,75.3,,,5.8,MWC,,,,,,0.91,U
 Wallis and Futuna Islands,06/16/1999,19:32:33,-14.965,-175.854,Earthquake,33,,,5.9,MWC,,,,,,1.2,USP0009A04,US,US,HRV,Reviewed
 Philippines,06/18/1999,10:55:26,5.514,126.639,Earthquake,33,,,6.4,MWC,,,,,,0.87,USP0009A3F,US,US,HRV,Reviewed
 Papua New Guinea,06/19/1999,09:03:09,-5.414,146.879,Earthquake,208.5,,,5.7,MWC,,,,,,1.04,USP0009A5D,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,06/21/1999,04:35:47,8.228,141.301,Earthquake,33,,,5.6,MWC,,,,,,0.89,USP0009A8H,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,06/21/1999,04:35:47,8.228,141.301,Earthquake,33,,,5.6,MWC,,,,,,0.89,USP0009A8H,US,US,HRV,Reviewed
 Afghanistan,06/21/1999,17:37:27,36.388,70.707,Earthquake,230.2,3.7,,5.5,MWB,,,,,,0.86,USP0009A9D,US,US,US,Reviewed
 Mexico,06/21/1999,17:43:05,18.324,-101.539,Earthquake,68.7,,,6.3,MWC,,,,,,1.07,USP0009A9E,US,US,HRV,Reviewed
 Indonesia,06/22/1999,00:47:43,-4.508,133.947,Earthquake,33,,,5.7,MWC,,,,,,0.99,USP0009A9W,US,US,HRV,Reviewed
@@ -14839,7 +14839,7 @@ Svalbard and Jan Mayen Islands,05/21/2000,19:58:47,71.19,-8.263,Earthquake,10,,,
 Brazil,05/22/2000,04:24:38,0.738,-25.862,Earthquake,10,,,5.9,MWC,,,,,,0.99,USP0009TAB,US,US,HRV,Reviewed
 Peru,05/22/2000,13:15:09,-4.096,-81.096,Earthquake,33,,,5.8,MWC,,,,,,0.89,USP0009TB1,US,US,HRV,Reviewed
 Greece,05/24/2000,05:40:38,36.042,22.012,Earthquake,33,,,5.7,MWC,,,,,,1.24,USP0009TDE,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,05/26/2000,00:30:05,11.359,139.245,Earthquake,33,,,6,MWC,,,,,,1.38,USP0009TG0,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,05/26/2000,00:30:05,11.359,139.245,Earthquake,33,,,6,MWC,,,,,,1.38,USP0009TG0,US,US,HRV,Reviewed
 Greece,05/26/2000,01:28:23,38.922,20.64,Earthquake,0,,,5.6,MWC,,,,,,,USP0009TG5,US,THE,HRV,Reviewed
 Antarctica,05/30/2000,06:39:00,-63.622,172.741,Earthquake,10,,,5.9,MWB,,,,,,1.04,USP0009TND,US,US,US,Reviewed
 United States,06/02/2000,11:13:49,44.513,-130.081,Earthquake,10,,304,6.2,MWC,,,,,,1.12,USP0009TTW,US,US,HRV,Reviewed
@@ -15852,9 +15852,9 @@ Mexico,06/07/2002,17:00:52,16.107,-96.749,Earthquake,33,,310,5.6,MWC,,,,,,1.07,U
 Vanuatu,06/10/2002,02:53:47,-15.509,167.545,Earthquake,116,,254,5.6,MWC,,,,,,0.82,USP000B5W1,US,US,HRV,Reviewed
 Nicaragua,06/10/2002,20:53:08,11.282,-87.191,Earthquake,33,,173,5.5,MWC,,,,,,1.39,USP000B5XA,US,US,HRV,Reviewed
 Nicaragua,06/10/2002,20:55:48,11.279,-87.229,Earthquake,33,,151,5.7,MWC,,,,,,1.43,USP000B5XB,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,06/10/2002,22:48:36,10.985,140.69,Earthquake,33,,253,6.1,MWB,,,,,,1.17,USP000B5XK,US,US,US,Reviewed
+Micronesia Fed. Sts.,06/10/2002,22:48:36,10.985,140.69,Earthquake,33,,253,6.1,MWB,,,,,,1.17,USP000B5XK,US,US,US,Reviewed
 New Caledonia,06/11/2002,04:19:57,-21.573,169.876,Earthquake,33,,93,5.5,MWC,,,,,,1.21,USP000B5YA,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,06/12/2002,09:10:32,10.99,140.892,Earthquake,33,,166,5.6,MWC,,,,,,1.03,USP000B60U,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,06/12/2002,09:10:32,10.99,140.892,Earthquake,33,,166,5.6,MWC,,,,,,1.03,USP000B60U,US,US,HRV,Reviewed
 St. Helena,06/12/2002,19:52:47,-0.676,-20.722,Earthquake,10,,386,5.6,MWC,,,,,,0.78,USP000B61S,US,US,HRV,Reviewed
 Australia,06/13/2002,01:27:19,-47.801,99.751,Earthquake,10,,153,6.6,MWC,,,,,,1.08,USP000B628,US,US,HRV,Reviewed
 Philippines,06/14/2002,02:11:37,7.593,124.022,Earthquake,33,,114,5.6,MWC,,,,,,1.02,USP000B644,US,US,HRV,Reviewed
@@ -15923,7 +15923,7 @@ Vanuatu,08/12/2002,02:59:24,-19.506,169.036,Earthquake,112.2,,326,6,MWB,,,,,,0.9
 Indonesia,08/13/2002,06:05:38,-6.998,104.016,Earthquake,33,,114,5.8,MWC,,,,,,1.17,USP000B9TB,US,US,HRV,Reviewed
 Yemen,08/13/2002,08:37:23,14.749,55.85,Earthquake,10,,270,5.8,MWC,,,,,,1.16,USP000B9TJ,US,US,HRV,Reviewed
 Tonga,08/13/2002,14:13:55,-30.772,-177.367,Earthquake,33,,104,5.6,MWC,,,,,,1.18,USP000B9U3,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,08/14/2002,13:12:40,7.831,136.88,Earthquake,10,,294,6.3,MWB,,,,,,1.02,USP000B9W4,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/14/2002,13:12:40,7.831,136.88,Earthquake,10,,294,6.3,MWB,,,,,,1.02,USP000B9W4,US,US,US,Reviewed
 Northern Mariana Islands,08/14/2002,13:57:52,14.101,146.199,Earthquake,30,,260,6.5,MWC,,,,,,0.97,USP000B9W7,US,US,HRV,Reviewed
 Indonesia,08/15/2002,05:30:26,-1.196,121.333,Earthquake,10,,169,6.2,MWC,,,,,,1.02,USP000B9XR,US,US,HRV,Reviewed
 Solomon Islands,08/17/2002,15:11:03,-9.552,155.976,Earthquake,33,,57,5.5,MWC,,,,,,0.88,USP000BA2Y,US,US,HRV,Reviewed
@@ -16408,7 +16408,7 @@ Guam,08/28/2003,22:06:45,13.162,145.335,Earthquake,33,,139,5.5,MWB,,,41.9,,,0.92
 South Georgia and South Sandwich Is.,08/29/2003,09:41:37,-59.286,-24.877,Earthquake,10,,67,5.5,MWC,,,53,,,1.06,USP000C66N,US,US,HRV,Reviewed
 Vanuatu,08/30/2003,00:05:39,-14.796,167.238,Earthquake,137,,246,6,MWB,,,46.9,,,0.96,USP000C683,US,US,US,Reviewed
 Japan,08/30/2003,10:06:40,41.864,142.552,Earthquake,51.9,,320,5.5,MWB,,,104.7,,,0.79,USP000C69A,US,US,US,Reviewed
-Micronesia, Fed. Sts.,08/31/2003,09:01:32,10.536,146.352,Earthquake,57.3,,297,5.5,MWB,,,42.1,,,0.8,USP000C6C5,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/31/2003,09:01:32,10.536,146.352,Earthquake,57.3,,297,5.5,MWB,,,42.1,,,0.8,USP000C6C5,US,US,US,Reviewed
 Russia,08/31/2003,23:08:00,43.393,132.267,Earthquake,481.1,,776,6.2,MWB,,,25.5,,,0.69,USP000C6DN,US,US,US,Reviewed
 Philippines,09/01/2003,15:13:07,12.154,122.318,Earthquake,20.7,,119,5.8,MWB,,,42.5,,,1.36,USP000C6F4,US,US,US,Reviewed
 China,09/01/2003,23:16:35,38.599,75.325,Earthquake,10,,525,5.7,MWC,,,34.9,,,0.93,USP000C6G8,US,US,HRV,Reviewed
@@ -16492,7 +16492,7 @@ Indonesia,10/18/2003,22:27:13,0.444,126.103,Earthquake,33,,341,6.4,MWC,,,35.1,,,
 South Georgia and South Sandwich Is.,10/20/2003,16:50:18,-58.09,-26.248,Earthquake,156.8,6.4,85,5.6,MWB,,,42.3,,,1.04,USP000CAW2,US,US,US,Reviewed
 Mexico,10/22/2003,02:30:37,8.199,-102.941,Earthquake,10,,80,5.8,MWB,,,117.8,,,0.86,USP000CAZJ,US,US,US,Reviewed
 Papua New Guinea,10/22/2003,11:45:31,-6.058,147.727,Earthquake,53.5,2.3,431,6.3,MWB,,,18.3,,,0.79,USP000CB09,US,US,US,Reviewed
-Micronesia, Fed. Sts.,10/23/2003,07:53:53,11.491,141.602,Earthquake,10,,81,5.6,MWC,,,84.1,,,1.06,USP000CB2C,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,10/23/2003,07:53:53,11.491,141.602,Earthquake,10,,81,5.6,MWC,,,84.1,,,1.06,USP000CB2C,US,US,HRV,Reviewed
 Fiji,10/23/2003,07:58:25,-23.704,179.802,Earthquake,503.8,,291,5.8,MWC,,,64.4,,,0.9,USP000CB2D,US,US,HRV,Reviewed
 Russia,10/23/2003,10:54:40,51.4,176.687,Earthquake,33,,362,5.6,MWC,,,50.3,,,1.07,USP000CB2T,US,US,HRV,Reviewed
 Papua New Guinea,10/24/2003,01:26:58,-3.471,145.395,Earthquake,33,,65,5.9,MWC,,,81.1,,,1.14,USP000CB48,US,US,HRV,Reviewed
@@ -16732,7 +16732,7 @@ South Georgia and South Sandwich Is.,04/08/2004,10:22:58,-55.677,-27.874,Earthqu
 Indonesia,04/09/2004,01:55:51,-1.549,100.54,Earthquake,65.6,,361,5.5,MWB,,,49.6,,,0.86,USP000CS1G,US,US,US,Reviewed
 Vanuatu,04/09/2004,15:23:35,-13.174,167.198,Earthquake,228.4,,424,6.5,MWB,,,29.9,,,1.14,USP000CS2Y,US,US,US,Reviewed
 Tonga,04/10/2004,04:54:04,-24.469,-176.011,Earthquake,10,,207,5.5,MWC,,,53.2,,,0.8,USP000CS4K,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,04/10/2004,07:35:24,8.044,137.215,Earthquake,40.9,,182,5.8,MWB,,,32.8,,,0.86,USP000CS4Y,US,US,US,Reviewed
+Micronesia Fed. Sts.,04/10/2004,07:35:24,8.044,137.215,Earthquake,40.9,,182,5.8,MWB,,,32.8,,,0.86,USP000CS4Y,US,US,US,Reviewed
 Tonga,04/10/2004,16:06:48,-24.672,-176.173,Earthquake,15,0,145,5.7,MWC,,,61.2,,,0.96,USP000CS5Q,US,US,HRV,Reviewed
 Indonesia,04/11/2004,07:37:30,-3.729,140.081,Earthquake,20,,236,6.2,MWC,,,32.6,,,0.97,USP000CS7Z,US,US,HRV,Reviewed
 Japan,04/11/2004,18:06:12,42.918,144.836,Earthquake,41.8,,531,6.1,MWB,,,72.6,,,0.89,USP000CS8Z,US,US,US,Reviewed
@@ -17009,7 +17009,7 @@ South Georgia and South Sandwich Is.,11/07/2004,02:41:41,-55.5,-29.049,Earthquak
 Japan,11/08/2004,02:15:59,37.396,138.862,Earthquake,10,,382,5.5,MWB,,,84.4,,,0.74,USP000D7X5,US,US,US,Reviewed
 Japan,11/08/2004,15:07:24,33.721,138.403,Earthquake,10,,360,5.6,MWC,,,36,,,0.76,USP000D7YE,US,US,HRV,Reviewed
 Japan,11/08/2004,15:55:01,24.104,122.542,Earthquake,29,,510,6.3,MWC,,,28.9,,,1.03,USP000D7YK,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,11/09/2004,22:14:38,11.619,140.695,Earthquake,54.9,10.4,155,5.5,MWB,,,31.5,,,0.99,USP000D81N,US,US,US,Reviewed
+Micronesia Fed. Sts.,11/09/2004,22:14:38,11.619,140.695,Earthquake,54.9,10.4,155,5.5,MWB,,,31.5,,,0.99,USP000D81N,US,US,US,Reviewed
 Solomon Islands,11/09/2004,23:58:24,-11.15,163.706,Earthquake,13,,405,6.9,MWB,,,19.2,,,1.03,USP000D81V,US,US,US,Reviewed
 Tonga,11/10/2004,10:35:34,-21.192,-176.103,Earthquake,10,,93,5.6,MWB,,,118.6,,,1.13,USP000D832,US,US,US,Reviewed
 Taiwan,11/11/2004,02:16:45,24.41,122.226,Earthquake,49.9,5.5,298,5.7,MWC,,,47.7,,,0.85,USP000D84B,US,US,HRV,Reviewed
@@ -17060,7 +17060,7 @@ Japan,12/06/2004,14:15:12,42.9,145.228,Earthquake,35,,759,6.8,MWB,,,23.6,,,0.76,
 Tonga,12/06/2004,16:26:29,-18.481,-178.076,Earthquake,439.2,,394,6.1,MWC,,,28.4,,,0.98,USP000DA6V,US,US,HRV,Reviewed
 Chile,12/08/2004,06:03:56,-30.84,-71.223,Earthquake,44,,264,5.8,MWB,,,45.6,,,0.9,USP000DAA4,US,US,US,Reviewed
 Vanuatu,12/10/2004,00:53:55,-18.928,169.015,Earthquake,137.5,,226,5.8,MWB,,,27.6,,,0.92,USP000DAD6,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/10/2004,09:42:34,10.874,141.781,Earthquake,32.2,,127,5.5,MWC,,,50.2,,,0.9,USP000DADS,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,12/10/2004,09:42:34,10.874,141.781,Earthquake,32.2,,127,5.5,MWC,,,50.2,,,0.9,USP000DADS,US,US,HRV,Reviewed
 Papua New Guinea,12/11/2004,01:55:50,-4.613,149.779,Earthquake,541.8,5.2,236,5.5,MWC,,,79.8,,,0.62,USP000DAEX,US,US,HRV,Reviewed
 Papua New Guinea,12/12/2004,16:03:38,-3.489,145.196,Earthquake,14,27.2,46,5.5,MWB,,,109.9,,,0.95,USP000DAJ4,US,US,US,Reviewed
 Indonesia,12/13/2004,12:00:12,-8.059,125.068,Earthquake,10,,163,5.5,MWC,,,34.8,,,0.97,USP000DAM2,US,US,HRV,Reviewed
@@ -17194,8 +17194,8 @@ Indonesia,01/14/2005,21:38:17,3.135,93.922,Earthquake,22,14.1,192,5.6,MWB,,,52.8
 India,01/15/2005,07:46:53,14.57,92.387,Earthquake,25.7,,174,5.5,MWB,,,36.9,,,0.89,USP000DDCK,US,US,US,Reviewed
 Indonesia,01/15/2005,13:47:05,-6.462,105.236,Earthquake,58.7,4.9,199,6,MWC,,,32.6,,,1.05,USP000DDCZ,US,US,HRV,Reviewed
 Tonga,01/16/2005,08:25:04,-25.528,-176.299,Earthquake,16,,339,6.2,MWB,,,21,,,0.91,USP000DDF0,US,US,US,Reviewed
-Micronesia, Fed. Sts.,01/16/2005,20:17:53,10.934,140.842,Earthquake,24.9,11.7,395,6.6,MWB,,,16.5,,,0.93,USP000DDGF,US,US,US,Reviewed
-Micronesia, Fed. Sts.,01/17/2005,10:50:33,10.986,140.682,Earthquake,12,,253,6.1,MWB,,,32.3,,,0.96,USP000DDK6,US,US,US,Reviewed
+Micronesia Fed. Sts.,01/16/2005,20:17:53,10.934,140.842,Earthquake,24.9,11.7,395,6.6,MWB,,,16.5,,,0.93,USP000DDGF,US,US,US,Reviewed
+Micronesia Fed. Sts.,01/17/2005,10:50:33,10.986,140.682,Earthquake,12,,253,6.1,MWB,,,32.3,,,0.96,USP000DDK6,US,US,US,Reviewed
 Greenland,01/18/2005,06:59:04,57.049,-33.811,Earthquake,10,,349,5.7,MWB,,,24.1,,,1.11,USP000DDNQ,US,US,US,Reviewed
 Japan,01/18/2005,14:09:06,42.946,144.866,Earthquake,42,,561,6.3,MWB,,,55.8,,,0.76,USP000DDPX,US,US,US,Reviewed
 Fiji,01/18/2005,21:20:32,-22.905,179.037,Earthquake,588.9,,167,5.8,MWC,,,25.2,,,1.01,USP000DDQK,US,US,HRV,Reviewed
@@ -17543,7 +17543,7 @@ Japan,08/30/2005,18:10:45,38.481,143.175,Earthquake,21.1,,464,6.1,MWB,,,29.9,,,0
 South Georgia and South Sandwich Is.,08/31/2005,01:24:49,-59.36,-27.104,Earthquake,10,,88,5.5,MWC,,,54,,,1.16,USP000DYCR,US,US,HRV,Reviewed
 Fiji,09/01/2005,11:22:10,-24.411,179.892,Earthquake,513.2,,172,5.6,MWC,,,43,,,0.97,USP000DYGF,US,US,HRV,Reviewed
 Indonesia,09/02/2005,08:04:05,2.451,98.923,Earthquake,147.1,,285,5.5,MWC,,,35.7,,,0.68,USP000DYKB,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,09/02/2005,18:35:13,10.364,138.324,Earthquake,10,,306,5.7,MWC,,,33.1,,,0.92,USP000DYM5,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,09/02/2005,18:35:13,10.364,138.324,Earthquake,10,,306,5.7,MWC,,,33.1,,,0.92,USP000DYM5,US,US,HRV,Reviewed
 St. Helena,09/03/2005,12:38:22,-49.93,-8.955,Earthquake,10,,201,5.7,MWC,,,40.9,,,1,USP000DYPG,US,US,HRV,Reviewed
 Chile,09/03/2005,20:21:25,-43.003,-82.858,Earthquake,10,,25,5.6,MWC,,,135.1,,,1.5,USP000DYQ3,US,US,HRV,Reviewed
 Wallis and Futuna Islands,09/04/2005,12:13:39,-17.108,-176.775,Earthquake,25.2,,143,5.6,MWB,,,118.6,,,0.91,USP000DYRK,US,US,US,Reviewed
@@ -17668,7 +17668,7 @@ Tonga,12/01/2005,03:08:40,-21.021,-179.105,Earthquake,644.7,,341,5.5,MWC,,,23,,,
 Japan,12/02/2005,13:13:10,38.089,142.122,Earthquake,29,,464,6.5,MWC,,,48.8,,,0.79,USP000E5C8,US,US,HRV,Reviewed
 Vanuatu,12/02/2005,23:49:24,-21.444,169.895,Earthquake,10,,91,5.7,MWC,,,39.4,,,1.03,USP000E5CY,US,US,HRV,Reviewed
 Japan,12/03/2005,16:10:40,29.338,130.29,Earthquake,26,,503,5.9,MWB,,,34.8,,,0.86,USP000E5EH,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/03/2005,20:38:12,12.19,141.008,Earthquake,10,,114,5.7,MWC,,,45.3,,,1.11,USP000E5F7,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,12/03/2005,20:38:12,12.19,141.008,Earthquake,10,,114,5.7,MWC,,,45.3,,,1.11,USP000E5F7,US,US,HRV,Reviewed
 Papua New Guinea,12/05/2005,05:59:46,-5.407,142.006,Earthquake,10,,83,5.5,MWB,,,28.8,,,1.03,USP000E5J7,US,US,US,Reviewed
 DR Congo,12/05/2005,12:19:57,-6.224,29.83,Earthquake,22,,561,6.8,MWC,,,20,,,0.98,USP000E5JX,US,US,HRV,Reviewed
 Tonga,12/07/2005,23:32:52,-30.012,-177.637,Earthquake,21,,340,6.4,MWC,,,21.4,,,0.98,USP000E5RC,US,US,HRV,Reviewed
@@ -17687,7 +17687,7 @@ Vanuatu,12/14/2005,06:45:42,-14.596,167.928,Earthquake,10,,159,5.6,MWC,,,38.5,,,
 El Salvador,12/16/2005,10:24:59,12.252,-89.521,Earthquake,34.7,,234,5.7,MWC,,,57,,,1.09,USP000E689,US,US,HRV,Reviewed
 Japan,12/16/2005,18:32:16,38.506,141.9,Earthquake,42.9,5.5,407,6,MWC,,,49.3,,,1.18,USP000E69B,US,US,HRV,Reviewed
 Indonesia,12/18/2005,04:23:10,2.842,95.916,Earthquake,18.2,,133,5.7,MWB,,,40.1,,,1.16,USP000E6BS,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/20/2005,05:51:13,12.232,140.995,Earthquake,22.8,,196,6.1,MWB,,,40.6,,,0.89,USP000E6FW,US,US,US,Reviewed
+Micronesia Fed. Sts.,12/20/2005,05:51:13,12.232,140.995,Earthquake,22.8,,196,6.1,MWB,,,40.6,,,0.89,USP000E6FW,US,US,US,Reviewed
 Fiji,12/20/2005,18:34:37,-25.484,179.484,Earthquake,527.7,,242,5.5,MWC,,,26.1,,,0.87,USP000E6GX,US,US,HRV,Reviewed
 Indonesia,12/21/2005,07:09:05,-0.066,124.672,Earthquake,25,,380,6.3,MWC,,,40.3,,,0.99,USP000E6HT,US,US,HRV,Reviewed
 Panama,12/21/2005,14:32:39,6.643,-82.755,Earthquake,7,,473,6,MWB,,,53.2,,,1.07,USP000E6JD,US,US,US,Reviewed
@@ -17976,7 +17976,7 @@ Papua New Guinea,07/19/2006,11:48:58,-5.474,150.684,Earthquake,28.2,,133,6.4,MWC
 Papua New Guinea,07/19/2006,18:08:58,-5.328,150.691,Earthquake,10,,139,5.9,MWC,,,30.8,,,1.22,USP000EP41,US,US,HRV,Reviewed
 Indonesia,07/23/2006,08:22:04,-0.336,123.286,Earthquake,28,,308,6,MWC,,,33.2,,,1.16,USP000EPCN,US,US,HRV,Reviewed
 Wallis and Futuna Islands,07/23/2006,20:50:51,-17.93,-178.608,Earthquake,587,,402,5.8,MWC,,,27.2,,,0.9,USP000EPE9,US,US,HRV,Reviewed
-Micronesia, Fed. Sts.,07/27/2006,01:01:42,10.411,142.031,Earthquake,26.5,,116,5.5,MWC,,,52.5,,,1.04,USP000EPNR,US,US,HRV,Reviewed
+Micronesia Fed. Sts.,07/27/2006,01:01:42,10.411,142.031,Earthquake,26.5,,116,5.5,MWC,,,52.5,,,1.04,USP000EPNR,US,US,HRV,Reviewed
 Indonesia,07/27/2006,11:16:40,1.707,97.146,Earthquake,20,,269,6.3,MWC,,,26,,,0.81,USP000EPPM,US,US,HRV,Reviewed
 Japan,07/28/2006,07:40:12,24.183,122.526,Earthquake,33,,373,5.9,MWC,,,50.6,,,0.99,USP000EPR8,US,US,HRV,Reviewed
 Afghanistan,07/29/2006,00:11:51,37.255,68.828,Earthquake,34.2,,184,5.6,MWC,,,64.5,,,0.91,USP000EPSZ,US,US,HRV,Reviewed
@@ -18174,7 +18174,7 @@ Timor-Leste,12/07/2006,06:34:54,-8.801,126.704,Earthquake,5.5,13.8,193,5.7,MWC,,
 Russia,12/07/2006,19:10:22,46.153,154.386,Earthquake,16,,612,6.4,MWC,,,17.5,,,0.86,USP000EZR9,US,US,GCMT,Reviewed
 Japan,12/09/2006,14:48:54,47.435,147.055,Earthquake,396,,578,5.8,MWB,,,33,,,0.84,USP000EZW3,US,US,US,Reviewed
 Tonga,12/10/2006,00:43:04,-18.742,-178.014,Earthquake,572.3,,133,5.5,MWC,,,73.7,,,0.96,USP000EZXE,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,12/10/2006,03:18:24,10.023,140.416,Earthquake,22.5,,130,5.5,MWC,,,48,,,1.06,USP000EZXQ,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,12/10/2006,03:18:24,10.023,140.416,Earthquake,22.5,,130,5.5,MWC,,,48,,,1.06,USP000EZXQ,US,US,GCMT,Reviewed
 Japan,12/10/2006,15:28:09,29.761,130.516,Earthquake,35,,235,5.7,MWB,,,40.3,,,0.86,USP000EZYX,US,US,US,Reviewed
 Indonesia,12/12/2006,15:48:03,3.733,124.684,Earthquake,213.5,,328,6.3,MWB,,,40,,,0.96,USP000F030,US,US,US,Reviewed
 Chile,12/12/2006,23:08:36,-41.392,-86.003,Earthquake,10,,51,5.5,MWC,,,51.8,,,1.22,USP000F03M,US,US,GCMT,Reviewed
@@ -18666,10 +18666,10 @@ Indonesia,09/29/2007,05:37:07,2.9,95.523,Earthquake,35,,214,6,MWC,,,33,,,1,USP00
 Philippines,09/29/2007,06:42:35,5.977,127.474,Earthquake,24.8,,192,5.5,MWC,,,34.6,,,0.87,USP000FPDT,US,US,GCMT,Reviewed
 New Caledonia,09/29/2007,15:36:45,-21.158,169.243,Earthquake,10,,196,5.7,MWB,,,85.8,,,1.27,USP000FPEU,US,US,US,Reviewed
 New Caledonia,09/29/2007,17:24:59,-21.096,169.269,Earthquake,10,,125,5.6,MWC,,,67.1,,,1.31,USP000FPF5,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,09/30/2007,02:08:30,10.454,145.718,Earthquake,14,,535,6.9,MWB,,,15.2,,,1.13,USP000FPG6,US,US,US,Reviewed
+Micronesia Fed. Sts.,09/30/2007,02:08:30,10.454,145.718,Earthquake,14,,535,6.9,MWB,,,15.2,,,1.13,USP000FPG6,US,US,US,Reviewed
 New Zealand,09/30/2007,05:23:34,-49.271,164.115,Earthquake,10,,499,7.4,MWC,,,16.6,,,1.19,USP000FPGQ,US,US,GCMT,Reviewed
 New Zealand,09/30/2007,09:47:52,-49.138,164.11,Earthquake,18,,572,6.6,MWC,,,21.9,,,1.28,USP000FPHP,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,09/30/2007,15:02:18,10.516,145.585,Earthquake,24.2,,295,5.5,MWC,,,24.4,,,0.87,USP000FPJA,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,09/30/2007,15:02:18,10.516,145.585,Earthquake,24.2,,295,5.5,MWC,,,24.4,,,0.87,USP000FPJA,US,US,GCMT,Reviewed
 Papua New Guinea,10/01/2007,13:50:25,-3.158,148.223,Earthquake,10,,80,5.9,MWC,,,57.6,,,1.18,USP000FPN0,US,US,GCMT,Reviewed
 Indonesia,10/02/2007,03:43:39,-4.24,101.212,Earthquake,22,,288,5.9,MWC,,,30.2,,,1.01,USP000FPPE,US,US,GCMT,Reviewed
 United States,10/02/2007,18:00:07,54.511,-161.708,Earthquake,32,,583,6.3,MWC,,,39.4,,,1.02,USP000FPQS,US,US,GCMT,Reviewed
@@ -18723,7 +18723,7 @@ Solomon Islands,11/10/2007,16:11:25,-11.547,166.279,Earthquake,45,,117,5.7,MWB,,
 Indonesia,11/10/2007,23:19:43,-3.277,100.531,Earthquake,15,,274,5.9,MWC,,,31.6,,,0.7,USP000FSB8,US,US,GCMT,Reviewed
 Indonesia,11/10/2007,23:42:42,-0.552,99.473,Earthquake,35,,167,5.5,MWC,,,76,,,0.81,USP000FSB9,US,US,GCMT,Reviewed
 Fiji,11/11/2007,07:37:35,-21.55,175.342,Earthquake,25,,138,5.5,MWB,,,42.3,,,0.96,USP000FSBT,US,US,US,Reviewed
-Micronesia, Fed. Sts.,11/12/2007,00:25:44,10.449,145.746,Earthquake,7,,251,5.7,MWC,,,24.5,,,0.77,USP000FSD7,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,11/12/2007,00:25:44,10.449,145.746,Earthquake,7,,251,5.7,MWC,,,24.5,,,0.77,USP000FSD7,US,US,GCMT,Reviewed
 Chile,11/14/2007,15:40:51,-22.247,-69.89,Earthquake,40,,610,7.7,MWC,,,22.4,,,1.11,USP000FSHY,US,US,GCMT,Reviewed
 Chile,11/14/2007,17:44:04,-23.215,-70.526,Earthquake,38,,218,5.7,MB,,99,48.9,,,,USP000FSJK,US,GUC,US,Reviewed
 Solomon Islands,11/14/2007,18:47:51,-11.538,166.264,Earthquake,46.6,,81,5.5,MS,,45,39.5,,,1.08,USP000FSJU,US,US,US,Reviewed
@@ -19863,7 +19863,7 @@ Haiti,01/13/2010,01:36:31,18.404,-72.826,Earthquake,10,,301,5.6,MWC,,,26.8,,,0.9
 Haiti,01/13/2010,05:02:57,18.367,-72.903,Earthquake,10,,413,5.8,MWC,,,22.6,,,0.99,USP000H61Z,US,US,US,Reviewed
 Tonga,01/13/2010,16:21:23,-15.656,-174.799,Earthquake,10,,71,5.5,MWC,,,69.2,,,0.81,USP000H62T,US,US,GCMT,Reviewed
 Indonesia,01/13/2010,17:18:08,-0.687,133.33,Earthquake,10,,163,5.8,MWC,,,18.8,,,1.02,USP000H62W,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,01/14/2010,14:03:41,11.51,142.082,Earthquake,37,,96,5.8,MWC,,,50.2,,,0.97,USP000H63W,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,01/14/2010,14:03:41,11.51,142.082,Earthquake,37,,96,5.8,MWC,,,50.2,,,0.97,USP000H63W,US,US,GCMT,Reviewed
 Solomon Islands,01/14/2010,16:22:35,-11.964,166.264,Earthquake,35,,90,5.5,MWC,,,75.9,,,1.22,USP000H641,US,US,GCMT,Reviewed
 Tonga,01/15/2010,10:14:03,-31.728,-177.612,Earthquake,10,,100,5.9,MWC,,,71.7,,,1.28,USP000H655,US,US,GCMT,Reviewed
 Japan,01/15/2010,11:08:38,26.746,126.285,Earthquake,139.1,,232,5.7,MWC,,,24.6,,,0.91,USP000H659,US,US,US,Reviewed
@@ -20210,19 +20210,19 @@ Vanuatu,08/11/2010,20:20:11,-17.988,167.781,Earthquake,27.8,16.7,83,5.5,MWC,,,51
 Vanuatu,08/12/2010,08:56:01,-17.423,167.798,Earthquake,35,,100,5.5,MWC,,,98.8,,,0.97,USP000HHZX,US,US,GCMT,Reviewed
 Ecuador,08/12/2010,11:54:16,-1.266,-77.306,Earthquake,206.7,,672,7.1,MWC,,,12.4,,,0.87,USP000HJ05,US,US,US,Reviewed
 Portugal,08/13/2010,07:58:49,36.877,-32.874,Earthquake,10,,221,5.5,MWC,,,28,,,0.9,USP000HJ1U,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,08/13/2010,21:19:34,12.487,141.474,Earthquake,16,,393,6.9,MWC,,,10.4,,,1.35,USP000HJ2J,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/13/2010,21:19:34,12.487,141.474,Earthquake,16,,393,6.9,MWC,,,10.4,,,1.35,USP000HJ2J,US,US,US,Reviewed
 Indonesia,08/14/2010,01:08:34,-3.09,139.77,Earthquake,2,20.6,89,5.6,MWC,,,27.4,,,1.34,USP000HJ31,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,08/14/2010,07:30:17,12.348,141.487,Earthquake,10,,280,6.2,MWC,,,12.1,,,1.11,USP000HJ3Z,US,US,US,Reviewed
-Micronesia, Fed. Sts.,08/14/2010,07:31:02,12.412,141.634,Earthquake,10,,38,5.7,MB,,13,65.1,,,1.19,USP000HJ40,US,US,US,Reviewed
-Micronesia, Fed. Sts.,08/14/2010,14:44:33,12.307,141.461,Earthquake,10,,177,5.6,MWC,,,16.8,,,0.98,USP000HJ5G,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,08/14/2010,16:35:44,12.303,141.566,Earthquake,10,,152,5.6,MWC,,,16.8,,,0.9,USP000HJ5P,US,US,GCMT,Reviewed
-Micronesia, Fed. Sts.,08/14/2010,23:01:04,12.273,141.429,Earthquake,13,,374,6.6,MWC,,,13,,,1.28,USP000HJ6R,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/14/2010,07:30:17,12.348,141.487,Earthquake,10,,280,6.2,MWC,,,12.1,,,1.11,USP000HJ3Z,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/14/2010,07:31:02,12.412,141.634,Earthquake,10,,38,5.7,MB,,13,65.1,,,1.19,USP000HJ40,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/14/2010,14:44:33,12.307,141.461,Earthquake,10,,177,5.6,MWC,,,16.8,,,0.98,USP000HJ5G,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,08/14/2010,16:35:44,12.303,141.566,Earthquake,10,,152,5.6,MWC,,,16.8,,,0.9,USP000HJ5P,US,US,GCMT,Reviewed
+Micronesia Fed. Sts.,08/14/2010,23:01:04,12.273,141.429,Earthquake,13,,374,6.6,MWC,,,13,,,1.28,USP000HJ6R,US,US,US,Reviewed
 Russia,08/15/2010,02:10:38,53.557,160.121,Earthquake,40.3,,482,5.5,MWC,,,76.2,,,0.89,USP000HJ75,US,US,GCMT,Reviewed
 Tonga,08/15/2010,02:51:20,-22.043,-179.742,Earthquake,595.9,6.4,162,5.5,MWC,,,74.8,,,0.88,USP000HJ78,US,US,GCMT,Reviewed
 Papua New Guinea,08/15/2010,15:09:29,-5.692,148.342,Earthquake,174.7,,372,6.3,MWB,,,15.7,,,0.97,USP000HJ8S,US,US,US,Reviewed
 Mauritius,08/16/2010,03:30:53,-17.759,65.647,Earthquake,9.8,2.8,204,6.3,MWC,,,36,,,1.18,USP000HJ9T,US,US,US,Reviewed
 Tonga,08/16/2010,19:35:49,-20.799,-178.826,Earthquake,603.2,,416,6.2,MWB,,,20.3,,,1.03,USP000HJAF,US,US,US,Reviewed
-Micronesia, Fed. Sts.,08/18/2010,16:28:15,12.234,141.514,Earthquake,10,,207,6.3,MWC,,,17.1,,,1.07,USP000HJDA,US,US,US,Reviewed
+Micronesia Fed. Sts.,08/18/2010,16:28:15,12.234,141.514,Earthquake,10,,207,6.3,MWC,,,17.1,,,1.07,USP000HJDA,US,US,US,Reviewed
 Guatemala,08/19/2010,22:13:03,14.03,-91.121,Earthquake,67.7,5,227,5.5,MWC,,,63.6,,,1.26,USP000HJFS,US,US,GCMT,Reviewed
 Papua New Guinea,08/20/2010,17:56:14,-6.57,154.246,Earthquake,19,,213,6.1,MWC,,,16.3,,,1.22,USP000HJH9,US,US,GCMT,Reviewed
 Indonesia,08/21/2010,05:42:53,2.221,96.717,Earthquake,24,,277,5.9,MWB,,,16.6,,,1.03,USP000HJJ7,US,US,US,Reviewed
@@ -21008,7 +21008,7 @@ Chile,09/28/2011,22:40:13,-37.952,-73.853,Earthquake,10,,166,5.6,MWB,,,65.2,,,0.
 New Zealand,10/01/2011,10:54:30,-48.978,164.542,Earthquake,10,,172,5.6,MWB,,,28.5,,,0.97,USP000J8TA,US,US,US,Reviewed
 Japan,10/04/2011,01:37:29,26.768,140.429,Earthquake,455.9,4.2,472,5.6,MWW,,,12.6,,,0.93,USP000J8WA,US,US,US,Reviewed
 Greenland,10/06/2011,00:39:33,57.89,-32.492,Earthquake,10,,451,5.5,MWW,,,22.1,,,0.91,USP000J8ZD,US,US,US,Reviewed
-Micronesia, Fed. Sts.,10/06/2011,07:37:01,9.7,138.245,Earthquake,20,,316,5.8,MWW,,,20.2,,,0.92,USP000J8ZY,US,US,US,Reviewed
+Micronesia Fed. Sts.,10/06/2011,07:37:01,9.7,138.245,Earthquake,20,,316,5.8,MWW,,,20.2,,,0.92,USP000J8ZY,US,US,US,Reviewed
 Argentina,10/06/2011,11:12:30,-24.178,-64.219,Earthquake,15,,401,5.9,MWW,,,21.4,,,0.87,USP000J907,US,US,US,Reviewed
 Vanuatu,10/07/2011,06:30:20,-22.212,171.222,Earthquake,118.6,6,255,5.6,MWC,,,24.2,,,0.93,USP000J91B,US,US,GCMT,Reviewed
 New Zealand,10/07/2011,08:58:29,-32.514,-179.038,Earthquake,36,,396,6.1,MWW,,,18.9,,,0.97,USP000J91E,US,US,US,Reviewed
@@ -21055,7 +21055,7 @@ Antarctica,11/07/2011,16:51:25,-63.245,170.735,Earthquake,5.5,15.8,141,5.8,MWW,,
 Nicaragua,11/07/2011,22:35:26,11.56,-85.861,Earthquake,177,,623,6,MWW,,,29.2,,,1.12,USP000JAJ2,US,US,US,Reviewed
 Japan,11/08/2011,02:59:09,27.324,125.621,Earthquake,224.9,,665,6.9,MWW,,,11.7,,,0.97,USP000JAJD,US,US,US,Reviewed
 Turkey,11/09/2011,19:23:33,38.429,43.229,Earthquake,5,,368,5.6,MWW,,,19.7,,,,USP000JAMZ,US,ISK,US,Reviewed
-Micronesia, Fed. Sts.,11/09/2011,21:52:20,10.542,146.095,Earthquake,10.5,13.8,328,5.7,MWW,,,18.4,,,0.93,USP000JAN7,US,US,US,Reviewed
+Micronesia Fed. Sts.,11/09/2011,21:52:20,10.542,146.095,Earthquake,10.5,13.8,328,5.7,MWW,,,18.4,,,0.93,USP000JAN7,US,US,US,Reviewed
 Pitcairn,11/11/2011,10:41:37,-55.981,-124.439,Earthquake,10,,62,6,MWW,,,49,,,1.44,USP000JAPR,US,US,US,Reviewed
 Tonga,11/11/2011,15:02:20,-17.708,-173.095,Earthquake,10,,344,5.6,MWB,,,44.7,,,1.21,USP000JAPX,US,US,US,Reviewed
 Pitcairn,11/11/2011,22:50:41,-55.707,-124.327,Earthquake,10,,28,5.6,MWC,,,63.6,,,1.2,USP000JAQ9,US,US,GCMT,Reviewed
@@ -21914,7 +21914,7 @@ Portugal,09/30/2013,08:16:09,49.4947,-28.5247,Earthquake,10,1.7,,5.5,MWC,,,22,14
 Russia,10/01/2013,03:38:22,53.1995,152.7864,Earthquake,573,1.8,,6.7,MWW,,,11,2.958,,1.2,USB000K3C1,US,US,US,Reviewed
 Yemen,10/02/2013,01:06:37,11.2277,57.5902,Earthquake,7.89,2.8,,5.7,MWW,,,37,11.987,,0.96,USB000K49T,US,US,US,Reviewed
 French Southern Territories,10/04/2013,17:26:14,-38.6062,78.3693,Earthquake,12.72,2.8,,6.4,MWW,,,26,20.977,,1.14,USB000K6NK,US,US,US,Reviewed
-Micronesia, Fed. Sts.,10/06/2013,16:38:09,12.3115,141.6905,Earthquake,104,1.7,,6,MWW,,,12,3.348,,0.73,USB000K7Q5,US,US,US,Reviewed
+Micronesia Fed. Sts.,10/06/2013,16:38:09,12.3115,141.6905,Earthquake,104,1.7,,6,MWW,,,12,3.348,,0.73,USB000K7Q5,US,US,US,Reviewed
 Chile,10/06/2013,21:33:20,-36.7267,-97.4761,Earthquake,10.28,1.7,,6.2,MWW,,,41,20.626,,1.33,USB000K7S0,US,US,US,Reviewed
 Australia,10/08/2013,13:39:56,-58.8864,149.0414,Earthquake,10,1.7,,5.7,MWW,,,40,7.007,,0.89,USB000K8JM,US,US,US,Reviewed
 Tonga,10/11/2013,21:25:00,-30.6623,-178.4838,Earthquake,151,1.8,,6.2,MWW,,,46,1.492,,1.2,USB000KBBM,US,US,US,Reviewed
@@ -21971,7 +21971,7 @@ South Georgia and South Sandwich Is.,11/17/2013,12:11:36,-60.526,-44.3839,Earthq
 St. Helena,11/17/2013,17:37:14,-10.329,-11.8343,Earthquake,10,1.7,,5.5,MB,0.04,,28,3.087,,0.69,USB000L0W2,US,US,US,Reviewed
 Japan,11/18/2013,19:10:45,34.3343,137.0475,Earthquake,328,1.8,,5.6,MWW,,,19,1.013,,0.75,USB000L1HK,US,US,US,Reviewed
 Indonesia,11/19/2013,13:32:51,2.6403,128.4339,Earthquake,38,1.7,,6,MWW,,,19,2.14,,1.01,USB000L219,US,US,US,Reviewed
-Micronesia, Fed. Sts.,11/19/2013,15:16:48,8.9147,138.5332,Earthquake,10,1.2,,5.9,MWW,,,19,4.176,,0.85,USB000L22E,US,US,US,Reviewed
+Micronesia Fed. Sts.,11/19/2013,15:16:48,8.9147,138.5332,Earthquake,10,1.2,,5.9,MWW,,,19,4.176,,0.85,USB000L22E,US,US,US,Reviewed
 Northern Mariana Islands,11/19/2013,17:00:44,18.4753,145.2041,Earthquake,511,1.8,,6,MWW,,,10,1.848,,1.05,USB000L25I,US,US,US,Reviewed
 New Zealand,11/19/2013,23:18:01,-63.2943,-164.9357,Earthquake,10.13,2.3,,5.7,MWB,0.071,,78,17.035,,0.89,USB000L2J8,US,US,US,Reviewed
 India,11/20/2013,10:09:18,12.3975,95.1481,Earthquake,10.26,2.2,,5.5,MWB,0.048,,32,7,,0.86,USB000L2RK,US,US,US,Reviewed
@@ -22210,8 +22210,8 @@ Vanuatu,05/11/2014,20:42:30,-13.8826,167.2398,Earthquake,189.08,4.3,,5.6,MWW,,,2
 Chile,05/12/2014,18:38:37,-49.9403,-114.7995,Earthquake,10.47,3,,6.5,MWW,,,35,23.164,,1.16,USB000QJHH,US,US,US,Reviewed
 Panama,05/13/2014,06:35:24,7.2096,-82.3045,Earthquake,10,1.3,,6.5,MWW,,,33,3.121,,1.33,USB000QK64,US,US,US,Reviewed
 Argentina,05/14/2014,03:38:21,-22.7239,-66.4407,Earthquake,213.12,4.3,,5.6,MWW,,,23,2.284,,0.84,USB000QLTI,US,US,US,Reviewed
-Micronesia, Fed. Sts.,05/14/2014,20:56:13,6.4507,144.9238,Earthquake,10,1.7,,6.1,MWW,,,38,7.093,,0.81,USB000QN2Z,US,US,US,Reviewed
-Micronesia, Fed. Sts.,05/15/2014,08:16:34,6.4264,144.9363,Earthquake,11,1.7,,6.3,MWW,,,10,7.118,,1.18,USB000QNGW,US,US,US,Reviewed
+Micronesia Fed. Sts.,05/14/2014,20:56:13,6.4507,144.9238,Earthquake,10,1.7,,6.1,MWW,,,38,7.093,,0.81,USB000QN2Z,US,US,US,Reviewed
+Micronesia Fed. Sts.,05/15/2014,08:16:34,6.4264,144.9363,Earthquake,11,1.7,,6.3,MWW,,,10,7.118,,1.18,USB000QNGW,US,US,US,Reviewed
 Philippines,05/15/2014,10:16:42,9.3832,122.0604,Earthquake,15.46,2.9,,6.3,MWW,,,15,4.172,,0.97,USB000QNIY,US,US,US,Reviewed
 Vanuatu,05/16/2014,00:40:16,-22.5327,172.9979,Earthquake,9,1.7,,5.5,MWW,,,37,6.086,,0.91,USB000QQBK,US,US,US,Reviewed
 Guadeloupe,05/16/2014,11:01:40,17.0863,-60.3648,Earthquake,5.34,2.4,,5.9,MWW,,,27,1.012,,0.67,USB000QQLQ,US,US,US,Reviewed
@@ -22321,7 +22321,7 @@ Bolivia,07/23/2014,21:39:08,-20.2267,-68.6776,Earthquake,118.73,3,,5.6,MWW,,,32,
 United States,07/25/2014,10:54:50,58.3062,-136.9601,Earthquake,10,1.7,,6.1,MWW,,,28,1.14,,1.36,USB000RX5I,US,US,US,Reviewed
 South Georgia and South Sandwich Is.,07/26/2014,11:13:48,-60.0379,-18.6749,Earthquake,10,0.9,,5.8,MWC,,,45,11.239,,0.69,USB000RXJY,US,US,GCMT,Reviewed
 Guadeloupe,07/27/2014,01:28:37,23.724,-45.5809,Earthquake,10,1.6,,6,MWW,,,43,16.915,,0.71,USB000RXNI,US,US,US,Reviewed
-Micronesia, Fed. Sts.,07/28/2014,03:36:46,7.5014,136.769,Earthquake,5,1.7,,5.6,MWW,,,22,9.963,,0.59,USB000RXUC,US,US,US,Reviewed
+Micronesia Fed. Sts.,07/28/2014,03:36:46,7.5014,136.769,Earthquake,5,1.7,,5.6,MWW,,,22,9.963,,0.59,USB000RXUC,US,US,US,Reviewed
 Papua New Guinea,07/28/2014,23:00:48,-6.9216,143.873,Earthquake,10,1.6,,5.6,MWW,,,11,4.083,,0.82,USB000RY5U,US,US,US,Reviewed
 Mexico,07/29/2014,10:46:15,17.6818,-95.6533,Earthquake,107,1.7,,6.3,MWW,,,43,0.94,,1.54,USB000RY8M,US,US,US,Reviewed
 Papua New Guinea,07/29/2014,13:27:40,-3.422,146.769,Earthquake,9.77,2.9,,6,MWW,,,14,5.436,,0.86,USB000RY9U,US,US,US,Reviewed
@@ -22883,7 +22883,7 @@ Indonesia,11/08/2015,16:47:02,6.8431,94.648,Earthquake,10,1.7,,6.6,MWW,,,31,2.79
 Indonesia,11/08/2015,19:14:47,6.984,94.534,Earthquake,10,1.8,,5.6,MWC,,,47,2.966,9.3,1.11,US10003VSP,US,US,GCMT,Reviewed
 Indonesia,11/09/2015,08:12:46,6.4078,94.8019,Earthquake,10,1.7,,5.5,MWW,,,31,2.434,5.2,1.24,US10003VXC,US,US,US,Reviewed
 United States,11/09/2015,16:03:46,51.6394,-173.0746,Earthquake,15,1.8,,6.5,MWW,,,39,0.897,2.4,0.86,US10003VYX,US,US,US,Reviewed
-Micronesia, Fed. Sts.,11/11/2015,00:26:58,6.2386,147.6443,Earthquake,13,1.7,,5.6,MWW,,,20,7.799,8.2,0.9,US10003X8B,US,US,US,Reviewed
+Micronesia Fed. Sts.,11/11/2015,00:26:58,6.2386,147.6443,Earthquake,13,1.7,,5.6,MWW,,,20,7.799,8.2,0.9,US10003X8B,US,US,US,Reviewed
 Chile,11/11/2015,01:54:39,-29.5067,-72.0068,Earthquake,12,1.7,,6.9,MWW,,,32,0.784,4.3,1.08,US10003X8T,US,US,US,Reviewed
 Chile,11/11/2015,02:46:20,-29.5097,-72.0585,Earthquake,10,1.7,,6.9,MWW,,,43,0.821,5.1,1.18,US10003X9G,US,US,US,Reviewed
 Chile,11/11/2015,06:26:34,-9.1387,-108.6442,Earthquake,10,1.8,,5.6,MWB,0.063,24,100,17.905,13.4,0.62,US10003XAF,US,US,US,Reviewed
@@ -23391,7 +23391,7 @@ Papua New Guinea,12/17/2016,11:27:39,-5.6497,153.9975,Earthquake,26.5,3.6,,6.3,M
 Solomon Islands,12/18/2016,05:46:25,-10.2137,161.2177,Earthquake,37.39,3.4,,5.9,MWW,,,13,1.469,7.6,0.71,US2000825R,US,US,US,Reviewed
 Chile,12/18/2016,06:15:46,-34.9886,-107.8694,Earthquake,10,1.6,,5.5,MWB,0.11,8,65,27.654,11.9,0.8,US2000826E,US,US,US,Reviewed
 Papua New Guinea,12/18/2016,06:39:42,-6.3046,154.353,Earthquake,10,1.6,,5.9,MWW,,,25,3.026,7,0.87,US2000826M,US,US,US,Reviewed
-Micronesia, Fed. Sts.,12/18/2016,09:47:05,8.3489,137.6672,Earthquake,12.43,2.9,,6.2,MWW,,,16,8.779,8,1.02,US2000828L,US,US,US,Reviewed
+Micronesia Fed. Sts.,12/18/2016,09:47:05,8.3489,137.6672,Earthquake,12.43,2.9,,6.2,MWW,,,16,8.779,8,1.02,US2000828L,US,US,US,Reviewed
 Solomon Islands,12/18/2016,11:35:48,-10.1904,161.2187,Earthquake,57.52,5.2,,5.5,MB,0.048,147,92,1.458,8.8,0.79,US20008293,US,US,US,Reviewed
 Peru,12/18/2016,13:30:11,-9.964,-70.9714,Earthquake,622.54,3.1,,6.4,MWW,,,11,2.804,9.1,0.65,US200082AN,US,US,US,Reviewed
 Solomon Islands,12/20/2016,04:21:29,-10.1773,161.2236,Earthquake,16.65,2.8,,6.4,MWW,,,21,1.456,8.1,0.89,US200082PP,US,US,US,Reviewed
