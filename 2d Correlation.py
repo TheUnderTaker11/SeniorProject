@@ -47,16 +47,16 @@ print(suicides_per_year)
 
 fig, plot1 = pyplot.subplots(1,1,figsize=(12,6))
 # Earthquake plot
-plot1.plot(earthquake_avg_year_depth, label="earthquakes")
+plot1.plot(earthquake_avg_year_depth, label="earthquakes",color="blue")
 plot1.axis([1995, 2013, 0, 150])
 plot1.set_xlabel("Year",fontsize=14)
-plot1.set_ylabel("Average Earthquake Depth",color="red",fontsize=14)
+plot1.set_ylabel("Average Earthquake Depth",color="blue",fontsize=14)
 plot1.legend(loc='upper left')
 
 plot2 = plot1.twinx()
 plot2.plot(suicides_per_year, label="suicides",color="red")
 plot2.axis([1995, 2013, 190000, 300000])
-plot2.set_ylabel("Suicides",color="red",fontsize=14)
+plot2.set_ylabel("Total Suicides Globally",color="red",fontsize=14)
 plot2.legend(loc='upper right')
 pyplot.show()
 
