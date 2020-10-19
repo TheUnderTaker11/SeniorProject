@@ -115,22 +115,6 @@ fig = plt.figure(figsize=(12,6))
 #creating a subplot
 ax1 = fig.add_subplot(1,1,1)
 
-# This and 2 lines below will be used to make the graph visually transition through the years, if time permits.
-# Currently does nothing and isn't fleshed out.
-def animate(i):
-
-    ax1.clear()
-    plt.hist(total_earthquakes_in_year, label="total earthquakes", color="blue")
-    plt.axis([1995, 2013, 400, 650])
-
-    plt.xlabel('Year')
-    plt.ylabel('Total Earthquakes worldwide')
-    plt.legend()
-    plt.title('Live graph with matplotlib')
-
-# ani = animation.FuncAnimation(fig, animate, interval=1000)
-# plt.show()
-
 
 ax1.clear()
 
@@ -148,13 +132,13 @@ plt.axis([-1, len(targetCountriesList), 0, 2500])
 plt.xlabel('Country',fontsize=14)
 ax1.set_xticks(np.arange(len(targetCountriesList)))
 ax1.set_xticklabels(targetCountriesList)
-plt.ylabel('Total Earthquakes Per Country since 1985',color=plot1Color,fontsize=14)
+plt.ylabel('Total Earthquakes Per Country',color=plot1Color,fontsize=14)
 plt.legend(loc='upper left')
-plt.title('Side-By-Side of Total Earthquakes and Suicides per 100k Population 1995 to 2015')
+plt.title('Overlapping Histogram of Total Earthquakes and Average Suicides per 100k Population 1985 to 2016')
 
 plot2 = plt.twinx()
 plot2.hist(targetCountriesList,weights=graph_suicide_array, label="suicides per 100k pop", color=plot2Color,bins=2020,alpha=0.5,ec='black',width=0.9,align='right')
-plot2.set_ylabel("Average Suicides per 100k Population since 1985",color=plot2Color,fontsize=14)
+plot2.set_ylabel("Average Suicides per 100k Population",color=plot2Color,fontsize=14)
 plot2.set_xticks(np.arange(len(targetCountriesList)))
 plot2.set_xticklabels(targetCountriesList)
 plt.axis([-1, len(targetCountriesList), 0, 40])

@@ -1,3 +1,9 @@
+#############
+# This script is for part 1 of my prompt to give some 2d correlation.
+# This one scales suicides down so you can see the relation between both lines.
+#
+# Author: Clay Bellou
+#############
 import sys
 import pandas as pd
 import numpy as np

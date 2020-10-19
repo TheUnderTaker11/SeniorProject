@@ -1,3 +1,11 @@
+#############
+# This script is for part 3 of my prompt to give some 3d visualization.
+# Also has interactivity to meet that requirement of the prompt.
+#
+# The two 3d surface maps are shown side-by-side due to the scales of both of them being way to far off to show anything meaningful.
+#
+# Author: Clay Bellou
+#############
 import sys
 import plotly.graph_objects as go
 import pandas as pd
@@ -124,9 +132,8 @@ for countryName in targetCountriesList:
 
     index += 1
 
-# print(avg_suicides_per_country_year["United States"])
+
 # Calculate and format avg suicides per 100k data into z_axis3
-avg_suicides_per_country_year
 index = 0
 for countryName in targetCountriesList:
     tempArray = [float(0)] * len(x_axis)
@@ -148,7 +155,7 @@ for countryName in targetCountriesList:
     z_axis3[index] = tempArray
     index += 1
 
-print(z_axis3)
+
 ######################## Begin making graph ########################
 
 #This commented out code makes the graph have both overlayed on eachother, which sadly makes it look worse.
