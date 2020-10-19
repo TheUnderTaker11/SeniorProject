@@ -1,6 +1,22 @@
+import sys
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as pyplot
+
+
+# Handle the color-picking accessibility option!
+color1 = "blue"
+color2 = "red"
+
+if len(sys.argv) == 2:
+    print("To few color arguments! Using default colors")
+elif len(sys.argv) == 3:
+    print("Using colors ",sys.argv[1], " and ", sys.argv[2], " instead of the default colors!")
+    print("(Default colors for this visualization are blue and red)")
+    color1 = sys.argv[1]
+    color2 = sys.argv[2]
+elif len(sys.argv) > 3:
+    print("To many color arguments! Using default colors")
 
 
 earthquakes = pd.read_csv("EarthquakeData.csv")
@@ -51,17 +67,17 @@ for yearStr in suicides['year']:
 fig, plot1 = pyplot.subplots(1,1,figsize=(12,6))
 
 # Earthquake plot
-plot1.plot(earthquake_avg_year_depth, label="Avg Earthquake Depth",color="blue")
+plot1.plot(earthquake_avg_year_depth, label="Avg Earthquake Depth",color=color1)
 pyplot.title('Relation of Avg Earthquake Depth and Total Suicides Globally Through the Years')
 plot1.axis([1995, 2013, 0, 150])
 plot1.set_xlabel("Year",fontsize=14)
-plot1.set_ylabel("Average Earthquake Depth (km)",color="blue",fontsize=14)
+plot1.set_ylabel("Average Earthquake Depth (km)",color=color1,fontsize=14)
 plot1.legend(loc='upper left')
 
 plot2 = plot1.twinx()
-plot2.plot(suicides_per_year, label="suicides",color="red")
+plot2.plot(suicides_per_year, label="suicides",color=color2)
 plot2.axis([1995, 2013, 190000, 300000])
-plot2.set_ylabel("Total Suicides Globally",color="red",fontsize=14)
+plot2.set_ylabel("Total Suicides Globally",color=color2,fontsize=14)
 plot2.legend(loc='upper right')
 pyplot.show()
 
