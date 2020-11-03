@@ -7,21 +7,22 @@
 # Author: Clay Bellou
 #############
 import sys
-import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 import random
+import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import plotly.express as px
 
-
-if len(sys.argv) > 1:
-    print("Sorry this visualization doesn't yet support choosing colors!")
+plotColorScale = "thermal"
+if len(sys.argv) == 2:
+    plotColorScale = sys.argv[1]
+elif len(sys.argv) > 2:
+    print("To many color arguments! Using default colors")
 
 #read database files into a table in memory
 earthquakes = pd.read_csv("EarthquakeDataWithCountries.csv")
 suicides = pd.read_csv("SuicideDataContriesConverted.csv")
-
-
 
 
 #X-axis will just be the years 1995 to 2015. (NOT including 2016)
@@ -138,7 +139,7 @@ index = 0
 for countryName in targetCountriesList:
     tempArray = [float(0)] * len(x_axis)
     tempIndex = 0
-    print(avg_suicides_per_country_year[countryName].keys())
+    # print(avg_suicides_per_country_year[countryName].keys())
     for suicideArrayKey in avg_suicides_per_country_year[countryName].keys():
         suicideArray = avg_suicides_per_country_year[countryName][suicideArrayKey]
         if tempIndex >= len(tempArray):
@@ -169,7 +170,25 @@ fig = make_subplots(rows=1, cols=2,
                     specs=[[{'is_3d': True}, {'is_3d': True}]],
                     subplot_titles=['Highest Magnitude Earthquake in each country per year', 'Average suicides per 100k population in each country per year'],
                     )
-fig.add_trace(go.Surface(z=z_axis1,x=x_axis,y=y_axis,colorbar_x=-0.07,name="Max Magnitude of Earthquake"),1,1)
-fig.add_trace(go.Surface(z=z_axis3,x=x_axis,y=y_axis,name="Avg Suicides per 100k Population"),1,2)
+fig.add_trace(go.Surface(z=z_axis1,x=x_axis,y=y_axis,colorbar_x=-0.07,name="Max Magnitude of Earthquake",autocolorscale=False,colorscale=plotColorScale),1,1)
+fig.add_trace(go.Surface(z=z_axis3,x=x_axis,y=y_axis,name="Avg Suicides per 100k Population",autocolorscale=False,colorscale=plotColorScale),1,2)
 fig.update_layout(title='Earthquake and Suicide 3D Visualization')
+fig.update_layout(
+    scene=dict(
+        xaxis = dict(title='Year'),
+        yaxis = dict(title='Country'),
+        zaxis = dict(title='Magnitude')
+        ),
+    scene2=dict(
+        xaxis = dict(title='Year'),
+        yaxis = dict(title='Country'),
+        zaxis = dict(title='Suicides per 100k Population')
+        )
+)
+fig.update_layout(
+    font=dict(
+        size=13,
+        color="RebeccaPurple"
+    )
+)
 fig.show()

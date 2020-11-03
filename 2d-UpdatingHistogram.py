@@ -1,6 +1,6 @@
 #############
 # This script is for part 2 of my prompt to give some 2d visualization.
-# I hope to have it visually update itself throughout the years, but due to time constraints version 1 will have it be static.
+# I hope to have it visually update itself throughout the years, but due to time constraints version 1 will have it be static. (2d-BasicHistogram.py)
 #
 # Author: Clay Bellou
 #############
@@ -118,46 +118,39 @@ ax1 = fig.add_subplot(1,1,1)
 # This and 2 lines below will be used to make the graph visually transition through the years, if time permits.
 # Currently does nothing and isn't fleshed out.
 def animate(i):
-
     ax1.clear()
-    plt.hist(total_earthquakes_in_year, label="total earthquakes", color="blue")
-    plt.axis([1995, 2013, 400, 650])
 
-    plt.xlabel('Year')
-    plt.ylabel('Total Earthquakes worldwide')
-    plt.legend()
-    plt.title('Live graph with matplotlib')
+    np.linspace
 
-# ani = animation.FuncAnimation(fig, animate, interval=1000)
-# plt.show()
+    plot1Color = color1
+    plot2Color = color2
+
+    # Histogram of average magnitude of all earthquakes in each country
+    # plt.hist(targetCountriesList,weights=graph_earthquake_array, label="total earthquakes", color=plot1Color,bins=2020,alpha=0.5,ec='black',width=0.9,align='right')
+    # Histogram of total earthquakes in each country
+    plt.hist(targetCountriesList, weights=graph_total_earthquake_array, label="total earthquakes", color=plot1Color,
+             bins=2020, alpha=0.5, ec='black', width=0.9, align='right')
+
+    plt.axis([-1, len(targetCountriesList), 0, 2500])
+    plt.xlabel('Country', fontsize=14)
+    ax1.set_xticks(np.arange(len(targetCountriesList)))
+    ax1.set_xticklabels(targetCountriesList)
+    plt.ylabel('Total Earthquakes Per Country since 1985', color=plot1Color, fontsize=14)
+    plt.legend(loc='upper left')
+    plt.title('Side-By-Side of Total Earthquakes and Suicides per 100k Population Over the Years')
+
+    plot2 = plt.twinx()
+    plot2.hist(targetCountriesList, weights=graph_suicide_array, label="suicides per 100k pop", color=plot2Color,
+               bins=2020, alpha=0.5, ec='black', width=0.9, align='right')
+    plot2.set_ylabel("Average Suicides per 100k Population since 1985", color=plot2Color, fontsize=14)
+    plot2.set_xticks(np.arange(len(targetCountriesList)))
+    plot2.set_xticklabels(targetCountriesList)
+    plt.axis([-1, len(targetCountriesList), 0, 40])
+    plot2.legend(loc='upper right')
+
+ani = animation.FuncAnimation(fig, animate, interval=1000)
+plt.show()
 
 
-ax1.clear()
-
-np.linspace
-
-plot1Color = color1
-plot2Color = color2
-
-# Histogram of average magnitude of all earthquakes in each country
-# plt.hist(targetCountriesList,weights=graph_earthquake_array, label="total earthquakes", color=plot1Color,bins=2020,alpha=0.5,ec='black',width=0.9,align='right')
-# Histogram of total earthquakes in each country
-plt.hist(targetCountriesList,weights=graph_total_earthquake_array, label="total earthquakes", color=plot1Color,bins=2020,alpha=0.5,ec='black',width=0.9,align='right')
-
-plt.axis([-1, len(targetCountriesList), 0, 2500])
-plt.xlabel('Country',fontsize=14)
-ax1.set_xticks(np.arange(len(targetCountriesList)))
-ax1.set_xticklabels(targetCountriesList)
-plt.ylabel('Total Earthquakes Per Country since 1985',color=plot1Color,fontsize=14)
-plt.legend(loc='upper left')
-plt.title('Side-By-Side of Total Earthquakes and Suicides per 100k Population Over the Years')
-
-plot2 = plt.twinx()
-plot2.hist(targetCountriesList,weights=graph_suicide_array, label="suicides per 100k pop", color=plot2Color,bins=2020,alpha=0.5,ec='black',width=0.9,align='right')
-plot2.set_ylabel("Average Suicides per 100k Population since 1985",color=plot2Color,fontsize=14)
-plot2.set_xticks(np.arange(len(targetCountriesList)))
-plot2.set_xticklabels(targetCountriesList)
-plt.axis([-1, len(targetCountriesList), 0, 40])
-plot2.legend(loc='upper right')
 
 plt.show()
